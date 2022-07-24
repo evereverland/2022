@@ -42,4 +42,6 @@ Today, with digital memory, forgetting is almost impossible. Whether we like it 
 
 When an extension of life becomes a natural part of life, how will these different realities intersect? What happens if reality itself becomes blurred? Do we want to have an internet full of ghosts? What if in a near future one does not know if one is chatting with a living person or a ghost? Maybe it's time to start asking ourselves where we want the technology to take us, and most importantly to take us into consideration who we are becoming as humans. Do you want to live in a digital eternity?
 
+***
+
 <center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
