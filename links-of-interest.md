@@ -2,10 +2,14 @@
 
 # Links of Interest
 
+_2022-07-24 ~ Just starting to bring in links that have already need noted elsewhere. Many more to come_
+
 ## "Digital AfterLife"
 
+### Web sites
+
 * https://www.google.com/search?q=%22Digital+AfterLife%22
-* https://www.amazon.com/s?k=digital+afterlife
+
 
 ### [Digital Afterlife Explained: What It Means & What You Can Do About It]( https://www.joincake.com/blog/digital-afterlife/ )
 
@@ -27,9 +31,29 @@
 
 > If a complete stranger were granted access to every scrap of recorded information about you that exists in the world, would they be able to stand up at your funeral and deliver a personal, moving eulogy that captured the essence of you? Thanks to the modern digital world, the likely answer is yes.
 
+### Books
 
-## Legacy Projects
+  * https://www.amazon.com/s?k=digital+afterlife
 
+There's a good number of available books, but, wow!, why such high prices
+
+### [Digital Afterlife: Death Matters in a Digital Age]( https://www.amazon.com/Digital-Afterlife-Artificial-Intelligence-Robotics-ebook/dp/B07Z6PBZCL/ )
+
+Kindle: $57 Hardback $125
+
+>Despite the range of studies into grief and mourning in relation to the digital, research to date largely focuses on the cultural practices and meanings that are played out in and through digital environments. Digital Afterlife brings together experts from diverse fields who share an interest in Digital Afterlife and the wide-ranging issues that relate to this. The book covers a variety of matters that have been neglected in other research texts, for example:
+
+### [Digital Afterlife and the Spiritual Realm]( https://www.amazon.com/Afterlife-Spiritual-Artificial-Intelligence-Robotics/dp/0367565382 )
+
+Hardcover $150
+
+>Few religious leaders have examined the potential for the positive impact of digital media and digital immortality creation in religious contexts. It is evident that there have been recent moves away from traditional funeral services focusing on the transition of the deceased into the future world beyond, towards a rise of memorial content within funerals and commemorative events. This has heralded shifts in afterlife beliefs by replacing them, to all intents and purposes, by attitudes to this life.
+>
+>Digital Afterlife and the Spiritual Realm explores the ways in which digital media and digital afterlife creation affects social and religious understandings of death and the afterlife.
+
+## "Legacy Projects"
+
+* https://www.google.com/search?q=%22Legacy+Projects%22
 * https://legacyproject.org/ ?
 * https://legacyproject.human.cornell.edu/
 * http://www.ucsflegacyproject.com/about
