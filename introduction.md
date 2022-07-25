@@ -1,6 +1,5 @@
 [![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )](https://github.com/evereverland/2022/ "Source code on GitHub" ) [EverEverLand 2022]( https://evereverland.github.io/2022/ "Home page" )
 
-
 # Introduction
 
 _2022-07-24 This is a first pass - and the first day - at creating an EverEverLand website to replaces the 2019 release. More to come!_
@@ -12,7 +11,7 @@ Mission: Enable individuals and families, using digital media, to knit together 
 
 ## Vision
 
-Help people to -  as Kurt Vonnegut - "notice when you are happy, and exclaim or murmur or think at some point, 'If this isn't nice, I don't know what is.”
+Help people to -  as Kurt Vonnegut said - "notice when you are happy, and exclaim or murmur or think at some point, 'If this isn't nice, I don't know what is.'”
 
 
 ## Slogans that Sizzle
