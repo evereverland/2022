@@ -30,6 +30,17 @@ Good slogans excite, remind and focus
 * Let your life live on after your death
 * Create the history of the future
 * New homes for old things
+* What is the after-living version of yourself?
+
+## Colophon
+
+### Titles Typeface
+The typeface for all the titles in this website is [Windsor]( https://en.wikipedia.org/wiki/Windsor_(typeface) ).Windsor is a serif typeface created by Eleisha Pechey in 1905. It is intended for use such as display and in headings rather than for body text.
+
+ The Windsor typeface was used on all the covers of the [_Whole Earth Catalog_]( https://en.wikipedia.org/wiki/Whole_Earth_Catalog ), for the titles and credits for [_Annie Hall_]( https://en.wikipedia.org/wiki/Annie_Hall ) and most Woody Allen movies, and a number of TV shows such as [_The Price is Right_]( https://en.wikipedia.org/wiki/The_Price_Is_Right_(American_game_show) ) and [_All in the Family_]( https://en.wikipedia.org/wiki/All_in_the_Family ).
+
+
+
 
 ***
 
