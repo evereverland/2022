@@ -7,11 +7,11 @@ _2022-07-24 This is a first pass - and the first day - at creating an EverEverLa
 
 ## Mission
 
-Mission: Enable individuals and families, using digital media, to knit together the threads of their lives so as to preserve memories and artifacts for posterity. What is remembered, lives.
+Mission: Enable individuals and families - using all manner of media including digital - to knit together the threads of their lives so as to preserve connections, memories and artifacts for posterity. What is remembered, lives.
 
 ## Vision
 
-Help people to -  as Kurt Vonnegut said - "notice when you are happy, and exclaim or murmur or think at some point, 'If this isn't nice, I don't know what is.'”
+Help people to - as [Kurt Vonnegut]( https://en.wikipedia.org/wiki/Kurt_Vonnegut ) said - "notice when you are happy, and exclaim or murmur or think at some point, 'If this isn't nice, I don't know what is.'”
 
 
 ## Slogans that Sizzle
