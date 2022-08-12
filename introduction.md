@@ -30,6 +30,8 @@ Good slogans excite, remind and focus.Can you add any?
 * Create the history of the future
 * New homes for old things
 * What is the after-living version of yourself?
+* Artistically, a thanatological intervention
+* Effective altruism forever
 
 ## Colophon
 
