@@ -32,6 +32,7 @@ Good slogans excite, remind and focus.Can you add any?
 * What is the after-living version of yourself?
 * Artistically, a thanatological intervention
 * Effective altruism forever
+* The last thing is a dingbat
 
 ## Colophon
 
