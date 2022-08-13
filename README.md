@@ -1,28 +1,34 @@
+# [![](https://evereverland.github.io/2022/assets/github-octicon.svg )](https://github.com/evereverland/2022/ "Source code on GitHub" ) [EverEverLand 2022]( https://evereverland.github.io/2022/ "Home page" )
 
-# <center>EverEverLand</center>
 
-<center>
+<!--@@@
+<div class=iframe-resize ><iframe src=https://evereverland.github.io/2022/ height=100% width=100% ></iframe></div>
+_"EverEverLand" in a resizable window. One finger to rotate. Two to zoom._
+@@@-->
 
-## Mission
+## Full Screen: [EverEverLand]( https://evereverland.github.io/2022/ )
 
-Enabling individuals and families, using digital and other media, to knit together the strands of their lives and so to preserve their memories and artifacts for posterity
 
-<!--
+## Concept
 
-Enabling you and your people, using digital and other media, to knit together the strands of your lives and so to preserve your memories and artifacts for posterity
 
--->
+## To Do / Wish List
 
-## Vision
 
-What is remembered, lives
+## Issues
 
-<!--
 
-Where have you been? What did you do? Where are you going?
+## Links of Interest
 
--->
 
-## ❧
+## Change Log
 
-</center>
+
+### 2022-08-13
+
+* First commit
+
+
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
