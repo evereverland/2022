@@ -6,8 +6,7 @@
 	<title>Open Index or Markdown</title>
 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=contain">
-	<meta name="description"
-		content="What is remembered lives">
+	<meta name="description" content="What is remembered lives">
 	<meta name="keywords" content="ShowDown,Markdown,AJAX,JavaScript,HTML,CSS,GitHub,FOSS">
 	<meta name="version" content="2022-08-13">
 
@@ -17,7 +16,7 @@
 
 		:root {
 			font: 100% Verdana, Geneva, Tahoma, sans-serif;
-			--mnu-width: 15rem;
+			--mnu-width: 16rem;
 		}
 
 		@font-face {
@@ -72,6 +71,10 @@
 			margin: 0;
 		}
 
+		p {
+			margin: 1rem 0 0 0;
+		}
+
 		aside {
 			border: 1px solid lightgray;
 			margin-top: 15px;
@@ -119,33 +122,64 @@
 			width: 100%;
 		}
 
+		/* info box ~ See mnu-menu.js */
 
-		#main {
-			height: 100vh;
-			margin: 0;
-			padding: 1 rem;
-			width: 100%;
+		.info {
+			cursor: pointer;
+			float: right;
+			position: relative;
+		}
+
+		.info:hover {
+			background-color: yellow;
+		}
+
+		.infoImg {
+			opacity: 0.5;
+			width: 1rem;
+		}
+
+		.infoTooltip {
+			border: 1px double #888;
+			border-radius: 0.5rem;
+			background: white;
+			display: none;
+			font: 100% monospace;
+			font-size: 1rem;
+			font-weight: normal;
+			right: 0;
+			padding: 0.5rem;
+			position: absolute;
+			width: calc(0.75 * var(--mnu-width));
+			z-index: 1000;
+
+			box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
+		}
+
+		.info:hover>.infoTooltip {
+			display: block;
 		}
 
 
+		#main {
+			height: 100vh;
+			margin: 0rem;
+			padding: 0rem;
+			width: 100%;
+			display: grid;
+			place-items: center;
+		}
+
 		#divContent {
-
-			/* height: 100vh; */
-
 			background-color: white;
 			border: 2px solid #888;
-			border-radius: 10px;
-			left: calc(var(--mnu-width) + 1.5rem);
-			padding: 1rem;
-			position: absolute;
-			margin: 1rem auto;
+			border-radius: 1rem;
+			/* left: calc(var(--mnu-width) + 1.5rem); */
+			padding: 0 1rem;
+			margin: 1.8rem 0 0 calc(var(--mnu-width) - 1rem);
 			max-width: 35rem;
-			/* margin-left: 12rem; */
-
-			width: calc(100% - var(--mnu-width) - 2rem);
 
 			box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
-
 		}
 
 
@@ -154,8 +188,6 @@
 			position: fixed;
 			resize: both; */
 			z-index: 1;
-
-
 		}
 
 		#navMenu {
@@ -164,7 +196,7 @@
 			background-color: white;
 			border: 1px solid #8a8;
 			border-radius: 1rem;
-			left: 0.25rem;
+			left: 1rem;
 			max-height: calc(100vh - 2rem);
 			padding: 1rem;
 			position: fixed;
@@ -179,9 +211,9 @@
 		}
 
 		#sumNavMenu {
-			/* display: none; */
+			display: none;
 			background-color: #4a4;
-			;
+
 			border: 1px solid #8a8;
 			color: var(--color-3-text);
 			border-radius: 0.5rem;
@@ -194,71 +226,51 @@
 			top: var(--margin);
 			width: 15rem;
 			z-index: 2;
+		}
 
 
-			@media all and (max-width: 800px) {
-				#main {
-					left: 0;
-					padding: var(--margin);
-					width: 100%;
-				}
+		@media all and (max-width: 800px) {
+			#main {
+				left: 0;
+				padding: var(--margin);
+				width: 100%;
+			}
 
-				/* #navMenu {
+			/* #navMenu {
 					display: block;
-				} */
-				#spnMenuHelp {
-					display: none;
 				}
-
-				#sumNavMenu {
-					font-size: 120%;
-					padding: var(--margin);
-					width: 3.5rem;
-				}
+			*/
+			#spnMenuHelp {
+				display: none;
 			}
 
-			@media all and (max-height: 500px) {
-				#main {
-					left: 0;
-					padding: var(--margin);
-					width: 100%;
-				}
+			#sumNavMenu {
+				font-size: 120%;
+				padding: var(--margin);
+				width: 3.5rem;
+			}
+		}
 
-				/* #navMenu {
-		display: block;
-	} */
-				#spnMenuHelp {
-					display: none;
-				}
-
-				#sumNavMenu {
-					font-size: 120%;
-					padding: var(--margin);
-					width: 4rem;
-				}
+		@media all and (max-height: 500px) {
+			#main {
+				left: 0;
+				padding: var(--margin);
+				width: 100%;
 			}
 
-		}
+			/* #navMenu {
+			display: block;
+			}
+			*/
+			#spnMenuHelp {
+				display: none;
+			}
 
-
-		.parent {
-			display: grid;
-			place-items: center;
-			width: 100%;
-			height: 100%;
-		}
-
-
-		.child {
-			box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
-			padding: 0.5rem;
-			border-radius: 10px;
-			border: 1px solid red;
-			background: lightpink;
-			font-size: 1.5rem;
-			font-family: Verdana, Geneva, Tahoma, sans-serif;
-			text-align: center;
-			width: 50vw;
+			#sumNavMenu {
+				font-size: 120%;
+				padding: var(--margin);
+				width: 4rem;
+			}
 		}
 	</style>
 
@@ -269,27 +281,42 @@
 
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
 
-	<details id=detNavMenu class="gmd-4" open>
+	<details id=detNavMenu open>
 
 		<summary id=sumNavMenu class="summary-nav gmd-1" title="click to view or hide menu">
 			☰ <span id=spnMenuHelp>show&darr; || hide&uarr; menu</span>
 		</summary>
 
-		<nav id="navMenu" class="gmd-4">
+		<nav id="navMenu">
 
 			<div id=MNUdivHeader>
 
-				<h1><a href="">EverEverLand</a></h1>
+				<h1>
+					<a href="https://github.com/evereverland/2022" target="_blank" title="Source code on GitHub">
+						<img src="../../assets/githib-octicon.svg">
+					</a>
+
+					<span class="info" style="position:absolute;right:1rem;top:1.5rem">
+						<img src="../../assets/noun_Information_585560.svg" >
+						<div class="infoTooltip">
+							Release
+							2022-08-13
+						</div>
+					</span>
+					<a href="" title="Reload home page">EverEverLand</a>
+				</h1>
 
 			</div>
 
 
 			<div id=MNUdivContent>
-
+				<br>
 				<h2><a href="#../../pages/Introduction.md">Introduction</a></h2>
+				<p>pages</p>
 				<h2><a href="#../../pages/erika-marthins-digital-afterlife.md">Digital Afterlife</a></h2>
 				<h2><a href="#../../pages/legacy-project.md">Legacy Project</a></h2>
 				<h2><a href="#../../pages/links-of-interest.md">Links of Interest</a></h2>
+				<p>blog</p>
 				<h2><a href="#../../pages/journal.md">Journal</a></h2>
 
 			</div>
@@ -365,7 +392,7 @@
 
 			// } else {
 
-				divContent.style.cssText = "border-width: 2px; background-color: white; ";
+			divContent.style.cssText = "border-width: 2px; background-color: white; ";
 			//}
 
 

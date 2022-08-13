@@ -17,6 +17,12 @@ Enabling you and your people, using digital and other media, to knit together th
 
 What is remembered, lives
 
+<!--
+
+Where have you been? What did you do? Where are you going?
+
+-->
+
 ## ❧
 
 </center>
