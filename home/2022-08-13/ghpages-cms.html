@@ -356,9 +356,11 @@
 	</main>
 
 	<script>
+// jshint esversion: 6
+// jshint loopfunc: true
 
 		let defaultFile = "pages/home.md";
-		let base = "../../"
+		let base = "../../";
 
 		//location.hash = "../assets/markdown-help.md"; // test
 		//location.hash = "../style/style-sample-tags.html"
@@ -388,7 +390,7 @@
 
 		function onHashChange () {
 
-			let url
+			let url;
 
 			if ( !location.hash ) {
 
@@ -396,7 +398,7 @@
 
 			} else {
 
-				const url = base + location.hash.slice( 1 );
+				url = base + location.hash.slice( 1 );
 
 			}
 			document.title = url.split( "/" ).pop();
