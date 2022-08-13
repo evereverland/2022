@@ -1,0 +1,531 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=contain">
+	<meta name="description"
+		content="File wrangler. Default index.html file. Opens HTML or Markdown files. Passes location.hash.">
+	<meta name="keywords" content="ShowDown,Markdown,AJAX,JavaScript,HTML,CSS,GitHub,FOSS">
+	<meta name="date" content="2022-08-12">
+	<title>EverEverLand</title>
+
+	<style>
+		:root {
+			font-size: 100%;
+			--mnu-width: 20rem;
+			/* --main-hue: 240; */
+			/* 0 to 360 0=red 120=green 240=blue */
+
+
+		}
+
+		body {
+			font-family: Verdana, Geneva, Tahoma, sans-serif;
+		}
+
+		main {
+			overflow: auto;
+			background-color: white;
+		}
+
+		#MNUdivHeader {
+			margin: 1.5rem 0 0 0;
+		}
+
+		@font-face {
+			font-family: windsor;
+			src: url("Windsor Regular.ttf");
+		}
+
+		body {
+			margin: 0;
+			/* overflow: hidden; */
+		}
+
+		a {
+			color: darkgreen;
+			font-weight: bold;
+			text-decoration: none;
+		}
+
+		a:hover,
+		a:focus,
+		a:active {
+			color: green;
+			text-decoration: underline;
+		}
+
+		h1 {
+			color: darkgreen;
+			font-family: windsor;
+			font-size: 1rem;
+			margin: 0;
+		}
+
+		h2 {
+			color: darkgreen;
+			font-family: windsor;
+			font-size: 2rem;
+			margin: 0;
+		}
+
+		.parent {
+			display: grid;
+			place-items: center;
+			width: 100vw;
+			height: 100vh;
+		}
+
+		summary {
+			color: darkgreen;
+			font-family: windsor;
+			cursor: pointer;
+			font-size: 1.5rem;
+			font-weight: bold;
+			outline: none;
+		}
+
+		.child {
+
+			padding: 0.5rem;
+			border-radius: 10px;
+			border: 1px solid red;
+			background: lightpink;
+			font-size: 1.5rem;
+			font-family: Verdana, Geneva, Tahoma, sans-serif;
+			text-align: center;
+			width: 50vw;
+		}
+
+
+		/* info box ~ See mnu-menu.js */
+
+		.info {
+			cursor: pointer;
+			float: right;
+			position: relative;
+		}
+
+		.info:hover {
+			background-color: yellow;
+		}
+
+		.infoImg {
+			opacity: 0.5;
+			width: 1rem;
+		}
+
+		.infoTooltip {
+			border: 1px double #888;
+			border-radius: var(--margin);
+			background: white;
+			display: none;
+			font: 100% monospace;
+			font-size: 1rem;
+			font-weight: normal;
+			right: 0;
+			padding: var(--margin);
+			position: absolute;
+			width: calc(0.75 * var(--mnu-width));
+			z-index: 1000;
+		}
+
+		.info:hover>.infoTooltip {
+			display: block;
+		}
+
+
+		#main {
+			border: 0px solid red;
+			/* height: 100vh; */
+			left: calc(var(--mnu-width) + 1.5rem);
+			position: absolute;
+			width: calc(100% - var(--mnu-width) - 2rem);
+		}
+
+		#detNavMenu {
+			/* max-height: 90vh;
+	position: fixed;
+	resize: both; */
+			z-index: 1;
+		}
+
+		#navMenu {
+			/* padding: 0 var( --margin); */
+			/* width */
+			background-color: lightpink;
+			border: 1px solid #8a8;
+			border-radius: var(--margin);
+			left: 0.25rem;
+			max-height: calc(100vh - 2rem);
+			padding: var(--margin);
+			position: fixed;
+			top: 1rem;
+			overflow: auto;
+			resize: both;
+			width: var(--mnu-width);
+			z-index: 1;
+		}
+
+		#sumNavMenu {
+			/* display: none; */
+			background-color: var(--color-1-background);
+			border: 1px solid #8a8;
+			color: var(--color-3-text);
+			border-radius: var(--margin);
+			cursor: pointer;
+			left: var(--margin);
+			outline: none;
+			/* padding: var( --margin); */
+			padding: 0 0 0 0.2rem;
+			position: fixed;
+			top: var(--margin);
+			width: 13rem;
+			z-index: 2;
+		}
+	</style>
+</head>
+
+<body>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
+
+
+	<div id=MNUdivShowHide>
+
+		<details id=detNavMenu class="gmd-4">
+
+			<summary id=sumNavMenu class="summary-nav gmd-1" title="click to view or hide menu">
+				☰ <span id=spnMenuHelp>show&darr; || hide&uarr; menu</span>
+			</summary>
+
+			<nav id="navMenu" class="gmd-4">
+
+				<div id=MNUdivHeader>
+
+					<header>
+
+						<h1>
+							<a id=MNUaSource href="" target="_top" title="Click to go to the source code on GitHub">
+								<img src="https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg">
+							</a>
+
+							<a href="" title="Click this title to reload this page">
+								<!-- <span id=MNUspnTitle>Title</span>
+								<span id=MNUspnVersion>Version</span> -->
+
+					<svg viewBox="0 0 180 22">
+						<style>
+							text {
+								font-family: Windsor;
+								fill: darkgreen;
+								text-anchor: middle;
+							}
+						</style>
+						<text x="50%" y="20">EverEverLand</text>
+					</svg>
+
+							</a>
+							<span id="MNUinfoBox"></span>
+
+						</h1>
+
+					</header>
+
+				</div>
+
+				<div id=MNUdivExtras>
+					<button onclick=document.body.style.fontSize="80%" ;sumNavMenu.style.width="10rem" ;
+						style="font-size:80%;">A</button>
+					<button onclick=document.body.style.fontSize="100%" ;sumNavMenu.style.width="13rem" ;
+						style="font-size:100%;">A</button>
+					<button onclick=document.body.style.fontSize="150%" ;sumNavMenu.style.width="20rem" ;
+						style="font-size:150%;">A</button>
+				</div>
+
+				<div id=MNUdivContent>
+
+					<p><a href="#Introduction.md">Introduction</a></p>
+					<p><a href="#erika-marthins-digital-afterlife.md">Digital Afterlife</a></p>
+					<p><a href="#legacy-project.md">Legacy Project</a></p>
+
+					<p><a href="#links-of-interest.md">Links of Interest</a></p>
+					<p><a href="#journal.md">Journal</a></p>
+
+
+
+					<p><a href="#../../../test-cases/"></a></p>
+
+				</div>
+
+				<div id=MNUdivSample></div>
+
+				<div id=MNUdivFooter>
+
+					<footer>
+
+						<div id=divLog></div>
+
+						<hr>
+
+						<center>
+							<a id=MNUaIcon class=aDingbat href="javascript:MNUspnTitle.scrollIntoView();"
+								title="Scroll to top">
+								a
+							</a>
+						</center>
+
+					</footer>
+
+				</div>
+
+			</nav>
+
+		</details>
+	</div>
+
+	<main id=main class="parent">
+
+		<div id="divMainContent" >
+			<div >
+				<div class="child">
+					<h1>EverEverLand</h1>
+
+					<svg viewBox="0 0 180 22">
+						<style>
+							text {
+								font-family: Windsor;
+								fill: darkgreen;
+								text-anchor: middle;
+							}
+						</style>
+						<text x="50%" y="20">EverEverLand</text>
+					</svg>
+
+					<p>Mission: Enable individuals and families, using digital media, to knit together the strands of
+						their
+						lives so as to preserve
+						memories and artifacts for posterity. What is remembered, lives.
+					<p>
+						<!-- <h2><a href="#introduction.md">Intro</a> ~ <a
+					href="readme.html#erika-marthins-digital-afterlife.md">Digital Afterlife</a> ~ <a
+					href="readme.html#legacy-project.md">Legacy Project</a>
+				~ <a href="readme.html#links-of-interest.md">Links of Interest</a></h2> -->
+				</div>
+			</div>
+
+	</main>
+
+	<script>
+
+		const COR = {
+
+			description: document.head.querySelector( "[ name=description ]" ).content,
+			iconExternalFile: `<img class=infoImg  src="https://pushme-pullyou.github.io/tootoo-2022/assets/icons/icon-external-link.svg">`,
+			iconGitHub: `<img src="https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg">`,
+			iconInfo: `<img class=infoImg src="https://pushme-pullyou.github.io/tootoo-2022/assets/icons/noun_Information_585560.svg">`,
+			iconRepo: "❦",
+			title: document.title ? document.title : location.href.split( "/" ).pop().slice( 0, - 5 ).replace( /-/g, " " ),
+			version: document.head.querySelector( "[ name=date ]" ).content,
+
+			pathContent: "",
+			defaultFile: "",
+
+			urlSource: "https://github.com/pushme-pullyou/tootoo-2022/tree/main/lib01/mnu-menu/", ////////// remember to update
+		};
+
+		COR.addInfoBox = function ( text = COR.description, id = "" ) {
+
+			const htm = `
+<span class="info">
+	${ COR.iconInfo }
+	<div class="infoTooltip gmd-5">
+		<div id=${ id } >${ text }</div>
+	</div>
+</span>`;
+
+			return htm;
+
+		};
+
+
+		defaultFile = "";
+
+		/////////////
+
+		// code from 2004!!!
+
+		function stopError () { return true; }
+
+		window.onerror = stopError;
+
+		//var total = 7 * 255;
+		var total = 6 * 255 + 127;
+
+		var arrR = new Array( total );
+		var arrG = new Array( total );
+		var arrB = new Array( total );
+
+		var NN = ( window.Event ) ? 1 : 0;
+		var IE = ( document.all ) ? 1 : 0;
+		var theX = 0;
+		var adjX = 0;
+		var theY = 0;
+		var theWidth = 0;
+		var theHeight = 0;
+		var Ydiff = 0;
+		var R = 0;
+		var G = 0;
+		var B = 0;
+		var websafe = 0;
+		var onImg = 0;
+
+		for ( var i = 0; i < 256; i++ ) {
+			arrR[ i ] = 255;
+			arrR[ 2 * 255 - i ] = i;
+			arrR[ i + 2 * 255 ] = 0;
+			arrR[ i + 3 * 255 ] = 0;
+			arrR[ i + 4 * 255 ] = i;
+			arrR[ 6 * 255 - i ] = 255;
+			//if (i<255) arrR[i+6*255] = 255;
+			if ( i < 255 ) arrR[ i / 2 + 6 * 255 ] = 127;
+
+			arrG[ i ] = i;
+			arrG[ i + 255 ] = 255;
+			arrG[ i + 2 * 255 ] = 255;
+			arrG[ 4 * 255 - i ] = i;
+			arrG[ i + 4 * 255 ] = 0;
+			arrG[ i + 5 * 255 ] = 0;
+			//if (i<255) arrG[i+6*255] = 255;
+			if ( i < 255 ) arrG[ i / 2 + 6 * 255 ] = 127;
+
+			arrB[ i ] = 0;
+			arrB[ i + 255 ] = 0;
+			arrB[ i + 2 * 255 ] = i;
+			arrB[ i + 3 * 255 ] = 255;
+			arrB[ i + 4 * 255 ] = 255;
+			arrB[ 6 * 255 - i ] = i;
+			//if (i<255) arrB[i+6*255] = 255;
+			if ( i < 255 ) arrB[ i / 2 + 6 * 255 ] = 127;
+		}
+
+		var hexChars = "0123456789ABCDEF";
+
+		function Dec2Hex ( Dec ) {
+			var a = Dec % 16;
+			var b = ( Dec - a ) / 16;
+			hex = "" + hexChars.charAt( b ) + hexChars.charAt( a );
+			return hex;
+		}
+
+		function squeak ( e ) {
+			if ( NN ) {
+				theX = e.pageX;
+				theY = e.pageY;
+				theWidth = window.innerWidth;
+				theHeight = window.innerHeight;
+			} else {
+				if ( IE ) {
+					theX = event.clientX + document.body.scrollLeft;
+					theY = event.clientY + document.body.scrollTop;
+					theWidth = document.body.clientWidth;
+					theHeight = document.body.clientHeight;
+				}
+			}
+
+			Ydiff = Math.round( theY * ( 2 * 255 / ( theHeight + 1 ) ) - 255 );
+
+			adjX = Math.round( theX * ( total / theWidth ) );
+
+			R = arrR[ adjX ] - Ydiff; if ( R < 0 ) R = 0; if ( R > 255 || isNaN( R ) ) R = 255;
+			G = arrG[ adjX ] - Ydiff; if ( G < 0 ) G = 0; if ( G > 255 || isNaN( G ) ) G = 255;
+			B = arrB[ adjX ] - Ydiff; if ( B < 0 ) B = 0; if ( B > 255 || isNaN( B ) ) B = 255;
+
+			//maybe this is the trick:
+			if ( websafe ) {
+				R = Math.round( R / 51 ) * 51;
+				G = Math.round( G / 51 ) * 51;
+				B = Math.round( B / 51 ) * 51;
+			}
+
+			hexCode = Dec2Hex( R ) + Dec2Hex( G ) + Dec2Hex( B );
+			document.bgColor = '#' + hexCode;
+			// document.fgColor = '#' + hexCode;
+			// document.vlinkColor = '#' + hexCode;
+			// window.status = 'DEC: (' + R + ',' + G + ',' + B + ')   HEX: #' + hexCode.toUpperCase();
+		}
+
+		if ( NN ) {
+			document.captureEvents( Event.MOUSEMOVE );
+		}
+		
+		document.onmousemove = squeak;
+
+
+
+		////////////
+
+		init();
+
+		function init () {
+
+			MNUaSource.innerHTML = COR.iconGitHub;
+			MNUaSource.href = COR.urlSource;
+			MNUspnTitle.innerHTML = COR.title;
+			MNUspnVersion.innerHTML = COR.version;
+			MNUaIcon.innerHTML = COR.iconRepo;
+			COR.infoBoxHtm = COR.description ? COR.description : COR.info;
+			MNUinfoBox.innerHTML = COR.addInfoBox();
+
+
+			if ( window.innerWidth < 800 || window.innerHeight < 500 ) {
+
+				sumNavMenu.hidden = false;
+				detNavMenu.open = false;
+
+			} else {
+
+				const value = window.getComputedStyle( document.documentElement ).getPropertyValue( '--mnu-width' ); // #999999
+				//console.log( "value", value );
+				detNavMenu.style.width = value;
+				detNavMenu.style.maxWidth = "50%";
+				detNavMenu.open = true;
+				//navMenu.hidden = false;
+				sumNavMenu.hidden = true;
+			}
+
+			showdown.setFlavor( "github" );
+
+			if ( !location.hash ) { location.hash = defaultFile; }
+
+			//location.hash.endsWith( ".md" ) ? onHashChange() : window.location.href = location.hash.slice( 1 );
+
+			window.addEventListener( "hashchange", onHashChange, false );
+
+		}
+
+		function onHashChange () {
+
+			const url = location.hash.slice( 1 );
+			document.title = url.split( "/" ).pop();
+			const options = { openLinksInNewWindow: false, excludeTrailingPunctuationFromURLs: true, ghMention: true, simplifiedAutoLink: true, simpleLineBreaks: true, emoji: true };
+
+			const xhr = new XMLHttpRequest();
+			xhr.open( "get", url, true );
+			xhr.onload = () => {
+				let txt = xhr.responseText;
+				txt = txt.replace( /\<!--@@@/, "" ).replace( /\@@@-->/, "" );
+				divMainContent.innerHTML = new showdown.Converter( options ).makeHtml( txt );
+				window.scrollTo( 0, 0 );
+			};
+			xhr.send( null );
+
+		}
+
+
+	</script>
+
+</body>
+
+</html>

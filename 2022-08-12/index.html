@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+		@font-face {
+			font-family: windsor;
+			src: url("../Windsor Regular.ttf");
+		}
+
+		body {
+			background-color: black;
+			margin: 0;
+			overflow: hidden;
+		}
+
+		a {
+			color: darkgreen;
+			font-weight: bold;
+			text-decoration: none;
+		}
+
+		a:hover,
+		a:focus,
+		a:active {
+			color: green;
+			text-decoration: underline;
+		}
+
+		h1 {
+			color: darkgreen;
+			font-family: windsor;
+			font-size: 4rem;
+			margin: 0;
+		}
+
+		h2 {
+			color: darkgreen;
+			font-family: windsor;
+			font-size: 2rem;
+			margin: 0;
+		}
+
+		.parent {
+			display: grid;
+			place-items: center;
+			width: 100vw;
+			height: 100vh;
+		}
+
+
+		.child {
+
+			padding: 0.5rem;
+			border-radius: 10px;
+			border: 1px solid red;
+			background: lightpink;
+			font-size: 1.5rem;
+			font-family: Verdana, Geneva, Tahoma, sans-serif;
+			text-align: center;
+			width: 50vw;
+		}
+
+	</style>
+
+	<script>
+
+
+	</script>
+</head>
+
+<body>
+
+	<div class="parent">
+		<div class="child">
+			<svg viewBox="0 0 180 22">
+				<style>
+					text {
+						font-family: Windsor;
+						fill: darkgreen;
+						text-anchor: middle;
+					}
+				</style>
+				<text x="50%" y="20">EverEverLand</text>
+			</svg>
+
+			<p>
+				Mission: Enable individuals and families, using digital and other media, to knit together the strands
+				of their lives and so to their preserve memories and artifacts for posterity.
+				What is remembered, lives.
+			<p>
+
+			<h2>
+				<a href="../readme.html#introduction.md">Intro</a> ~
+				<a href="../readme.html#erika-marthins-digital-afterlife.md">Digital Afterlife</a> ~
+				<a href="../readme.html#legacy-project.md">Legacy Project</a> ~
+				<a href="../readme.html#links-of-interest.md">Links of Interest</a>
+			</h2>
+		</div>
+		
+</body>
+
+
+<script>
+
+	init();
+
+	function init () {
+
+		document.body.addEventListener( "mousemove", onMouseMove, false );
+
+	}
+
+	function onMouseMove ( e ) {
+
+		const width = window.innerWidth;
+		const height = window.innerHeight;
+
+		const red = e.x / width * 100;
+		const green = e.y / height * 100;
+		const blue = ( e.x / width ) - ( e.y / height ) * 100;
+
+		document.body.style.backgroundColor = `rgb(${ red }%, ${ green }%, ${ blue }%)`;
+		//console.log( "x&y", e.x, e.y );
+
+	}
+
+
+</script>
+
+</html>

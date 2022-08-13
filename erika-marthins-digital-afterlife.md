@@ -4,7 +4,8 @@
 
 By Erika Marthins
 
-_From the book _Of Earth_ published by [10th Floor Studio]( https://10thfloor.studio/ ) in 2020_
+_From the book_ [Of Earth]( https://10thfloor.studio/OF-EARTH ) _published by [10th Floor Studio]( https://10thfloor.studio/ ) in 2020_
+
 
 Today, we leave behind more than our material things when we pass. We leave our **digital legacy**. What kind of information do we want to be remembered by after our death?
 
