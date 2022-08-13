@@ -7,9 +7,9 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=contain">
 	<meta name="description"
-		content="File wrangler. Default index.html file. Opens HTML or Markdown files. Passes location.hash.">
+		content="What is remembered lives">
 	<meta name="keywords" content="ShowDown,Markdown,AJAX,JavaScript,HTML,CSS,GitHub,FOSS">
-	<meta name="version" content="2022-08-12">
+	<meta name="version" content="2022-08-13">
 
 	<style>
 		/* Copyright 2022 Theo Armour. MIT License */
@@ -23,7 +23,6 @@
 		@font-face {
 			font-family: windsor;
 			src: url("../../assets/Windsor Regular.ttf");
-
 		}
 
 		* {
@@ -144,6 +143,8 @@
 			/* margin-left: 12rem; */
 
 			width: calc(100% - var(--mnu-width) - 2rem);
+
+			box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
 
 		}
 
@@ -342,6 +343,12 @@
 			window.addEventListener( "hashchange", onHashChange, false );
 
 			main.addEventListener( "mousemove", onMouseMove, false );
+
+			if ( location.protocol === "https:" ) {
+
+				window.history.pushState( "", "", "./" + location.hash );
+
+			}
 
 		}
 
