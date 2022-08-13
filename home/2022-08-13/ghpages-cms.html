@@ -369,7 +369,6 @@
 
 			showdown.setFlavor( "github" );
 
-			if ( !location.hash ) { location.hash = defaultFile; }
 
 			location.hash.endsWith( ".md" ) ? onHashChange() : window.location.href = location.hash.slice( 1 );
 
@@ -383,12 +382,23 @@
 
 			}
 
+			onHashChange();
 		}
 
 
 		function onHashChange () {
 
-			const url = base + location.hash.slice( 1 );
+			let url
+
+			if ( !location.hash ) {
+
+				url = base + defaultFile;
+
+			} else {
+
+				const url = base + location.hash.slice( 1 );
+
+			}
 			document.title = url.split( "/" ).pop();
 			const options = { openLinksInNewWindow: false, excludeTrailingPunctuationFromURLs: true, ghMention: true, simplifiedAutoLink: true, simpleLineBreaks: true, emoji: true };
 
