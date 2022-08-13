@@ -22,7 +22,7 @@
 
 		@font-face {
 			font-family: windsor;
-			src: url("../Windsor Regular.ttf");
+			src: url("../../assets/Windsor Regular.ttf");
 
 		}
 
@@ -285,11 +285,11 @@
 
 			<div id=MNUdivContent>
 
-				<h2><a href="#../Introduction.md">Introduction</a></h2>
-				<h2><a href="#../erika-marthins-digital-afterlife.md">Digital Afterlife</a></h2>
-				<h2><a href="#../legacy-project.md">Legacy Project</a></h2>
-				<h2><a href="#../links-of-interest.md">Links of Interest</a></h2>
-				<h2><a href="#../journal.md">Journal</a></h2>
+				<h2><a href="#../../pages/Introduction.md">Introduction</a></h2>
+				<h2><a href="#../../pages/erika-marthins-digital-afterlife.md">Digital Afterlife</a></h2>
+				<h2><a href="#../../pages/legacy-project.md">Legacy Project</a></h2>
+				<h2><a href="#../../pages/links-of-interest.md">Links of Interest</a></h2>
+				<h2><a href="#../../pages/journal.md">Journal</a></h2>
 
 			</div>
 
@@ -324,7 +324,7 @@
 
 	<script>
 
-		defaultFile = "../README.md";
+		defaultFile = "../../README.md";
 
 		//location.hash = "../assets/markdown-help.md"; // test
 		//location.hash = "../style/style-sample-tags.html"
@@ -352,14 +352,14 @@
 			document.title = url.split( "/" ).pop();
 			const options = { openLinksInNewWindow: false, excludeTrailingPunctuationFromURLs: true, ghMention: true, simplifiedAutoLink: true, simpleLineBreaks: true, emoji: true };
 
-			if ( document.title === "README.md" ) {
+			// if ( document.title === "README.md" ) {
 
-				divContent.style.cssText = "border-width: 0; background-color: transparent; ";
+			// 	divContent.style.cssText = "border-width: 0; background-color: transparent; ";
 
-			} else {
+			// } else {
 
 				divContent.style.cssText = "border-width: 2px; background-color: white; ";
-			}
+			//}
 
 
 			const xhr = new XMLHttpRequest();
