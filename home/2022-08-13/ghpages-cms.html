@@ -357,7 +357,8 @@
 
 	<script>
 
-		defaultFile = "../../pages/home.md";
+		let defaultFile = "pages/home.md";
+		let base = "../../"
 
 		//location.hash = "../assets/markdown-help.md"; // test
 		//location.hash = "../style/style-sample-tags.html"
@@ -387,7 +388,7 @@
 
 		function onHashChange () {
 
-			const url = location.hash.slice( 1 );
+			const url = base + location.hash.slice( 1 );
 			document.title = url.split( "/" ).pop();
 			const options = { openLinksInNewWindow: false, excludeTrailingPunctuationFromURLs: true, ghMention: true, simplifiedAutoLink: true, simpleLineBreaks: true, emoji: true };
 
