@@ -7,7 +7,7 @@ _2022-07-24 This is a first pass - and the first day - at creating an EverEverLa
 
 Enable individuals and families - using all manner of media including digital - to knit together the threads of their lives so as to preserve connections, memories and artifacts for posterity. What is remembered, lives.
 
-### more missions
+### More missions
 
 Enabling you and your people, using digital and other media, to knit together the strands of your lives and so to preserve your memories and artifacts for posterity
 
@@ -15,7 +15,7 @@ Enabling you and your people, using digital and other media, to knit together th
 
 What is remembered, lives
 
-### more visions
+### More visions
 
 Where have you been? What did you do? Where are you going?
 
@@ -52,17 +52,17 @@ Not to forget
 
 ## Colophon
 
-### Titles Typeface
+### Typeface for Titles
 
-The typeface for all the titles in this website is [Windsor]( https://en.wikipedia.org/wiki/Windsor_(typeface) ).Windsor is a serif typeface created by Eleisha Pechey in 1905. It is intended for use such as display and in headings rather than for body text.
+The typeface for all the titles in this website is [Windsor]( https://en.wikipedia.org/wiki/Windsor_(typeface) ). [Windsor]( https://fontreviewjournal.com/windsor/ ) is a serif typeface created by [Eleisha Pechey]( http://luc.devroye.org/fonts-24790.html ) (1831-1902). It is intended for use such as display and in headings rather than for body text.
 
- The Windsor typeface was used on all the covers of the [_Whole Earth Catalog_]( https://en.wikipedia.org/wiki/Whole_Earth_Catalog ), for the titles and credits for [_Annie Hall_]( https://en.wikipedia.org/wiki/Annie_Hall ) and most Woody Allen movies, and a number of TV shows such as [_The Price is Right_]( https://en.wikipedia.org/wiki/The_Price_Is_Right_(American_game_show) ) and [_All in the Family_]( https://en.wikipedia.org/wiki/All_in_the_Family ).
+ The Windsor typeface was used on all the covers of the [_Whole Earth Catalog_]( https://en.wikipedia.org/wiki/Whole_Earth_Catalog ), for the titles and credits for [_Annie Hall_]( https://en.wikipedia.org/wiki/Annie_Hall ) and most Woody Allen movies and a number of TV shows such as [_The Price is Right_]( https://en.wikipedia.org/wiki/The_Price_Is_Right_(American_game_show) ) and [_All in the Family_]( https://en.wikipedia.org/wiki/All_in_the_Family ).
 
- Use of the Windsor font is a "new homes for old things" gesture.
+ Use of the Windsor font on this website is a "new homes for old things" or [eating your own dog food]( https://en.wikipedia.org/wiki/Eating_your_own_dog_food ) gesture.
 
-### Body Typeface
+### Typeface for Body text
 
-Verdana, just because it's a highly legible font. And, perhaps, because it may resembelt the Univers typefaces used in the _Whole Earth Catalog_.
+Verdana, just because it's a highly legible font. And, perhaps, because it may resemble the [Univers]( https://en.wikipedia.org/wiki/Univers ) typeface as used in the [_Whole Earth Catalog_]( https://fontsinuse.com/uses/1578/the-last-whole-earth-catalog ).
 
 ### File Format
 

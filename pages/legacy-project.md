@@ -1,39 +1,43 @@
 # [![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )]( https://github.com/evereverland/2022/blob/main/pages/legacy-project.md "Source code on GitHub" ) Legacy Project
 
-The text in the following sections has been extracted from this link:
+The text in the following sections has been extracted from a blog post that came from this link:
 
 * https://astralcodexten.substack.com/p/acx-grants-the-second-half
 
-[Astral Codex Ten]( https://astralcodexten.substack.com/ ) is the personal blog of a US West Coast psychiatristand polymath with a large following, Scott Alexander. See also https://en.wikipedia.org/wiki/Slate_Star_Codex. In December 2021, Scotte offered request grant proposals for any manner of interesting projects.
+[Astral Codex Ten]( https://astralcodexten.substack.com/ ) is the personal blog of a US West Coast psychiatrist and polymath with a large following, Scott Alexander.
 
-Background on the grants here:
+See also https://en.wikipedia.org/wiki/Slate_Star_Codex. In December 2021, Scott requested grant proposals for any manner of interesting projects with the prospects in sharing a fund amounting to $250,000 supplied by Scott. Background on the grants here:
 
 * https://astralcodexten.substack.com/p/apply-for-an-acx-grant
 
-Grant proposal #100 was of interest.
+Grant proposal #100 was of interest to the EverEverland project. The entire request is copied here:
 
-## 100: Tools For Protecting People’s Legacies After They Die
 
-Preserving your memories, beliefs, personality, and expectations about the future should be cheap and easy today. Storage, preservation, and discoverability are all cheaper and simpler than ever before. Yet every year more than 50 million people die, and the vast majority won't leave this kind of legacy. That's a tragedy.
-
-Preserving personal legacies has value for the people whose legacy is preserved, for the people who get access to these legacies, and for all of us: a clearer understanding of humanity, its values, and experiences. So what could significantly increase preservation of our legacies?
-
-* First, simple tools for collecting the material: A well-designed web form with prompts for significant memories, vital stats, family medical history, ethical will, and so on; and tools for collecting, tagging, and preserving photos, videos, and other media.
-* Second, tools, tech, and a plan for long-term preservation.
-* Third, a robust system, designed with legal advice, for specifying who gets to access which parts of the legacy and when.
-* Fourth, convenient, controlled access to the information.
-* Fifth, an effort to promote the project and its reliability.
-
-Each of these five components might require a team of professionals. However, there is such a clear void here that even a proof of concept using simple tools would be a big improvement and demonstrate the value of further investment.
-
-legacyproject@protonmail.com
+>## 100: Tools For Protecting People’s Legacies After They Die
+>
+>Preserving your memories, beliefs, personality, and expectations about the future should be cheap and easy today. Storage, preservation, and discoverability are all cheaper and simpler than ever before. Yet every year more than 50 million people die, and the vast majority won't leave this kind of legacy. That's a tragedy.
+>
+>Preserving personal legacies has value for the people whose legacy is preserved, for the people who get access to these legacies, and for all of us: a clearer understanding of humanity, its values, and experiences. So what could significantly increase preservation of our legacies?
+>
+>* First, simple tools for collecting the material: A well-designed web form with prompts for significant memories, vital stats, family medical history, ethical will, and so on; and tools for collecting, tagging, and preserving photos, videos, and other media.
+>* Second, tools, tech, and a plan for long-term preservation.
+>* Third, a robust system, designed with legal advice, for specifying who gets to access which parts of the legacy and when.
+>* Fourth, convenient, controlled access to the information.
+>* Fifth, an effort to promote the project and its reliability.
+>
+>Each of these five components might require a team of professionals. However, there is such a clear void here that even a proof of concept using simple tools would be a big improvement and demonstrate the value of further investment.
+>
+>legacyproject@protonmail.com
 
 
 ***
 
 ## Legacy Project Observations
 
-Thee following are Theo's observation regarding the proposal
+The above grant request is the shortest, simplest and clearest description of the construction of a digital afterlife that we have found so far. It is likely to be the basis or source of a larger and more detailed effort by EverEverLand.
+
+The following are Theo's observation regarding the each item of the Legacy Project's proposal.
+
 
 ## 1. Simple Tools for Collecting the Material
 
@@ -50,10 +54,11 @@ Creating a new industry around this process may be more efficacious.
 
 > Second, tools, tech, and a plan for long-term preservation.
 
-Facebook, GitHub, Flickr and other online services available to users at no cost have yet to delete user data. The photo you sent to Facebook in 2004 i still there. Storing huge amounts of data online for unlimited periods of time is becoming quite cheap.
+Facebook, GitHub, Flickr and other online services available to users at no cost have yet to delete user data. The photo you uploaded to Facebook in 2004 is still there. Storing huge amounts of data online for unlimited periods of time is becoming quite cheap.
 
-The interesting aspects will be
-* cataloging and tagging the data
+The interesting aspects will be:
+
+* Cataloging and tagging the data
 * Making it available to AI
 * Making it entertaining for humans
 
@@ -61,7 +66,7 @@ The interesting aspects will be
 
 > Third, a robust system, designed with legal advice, for specifying who gets to access which parts of the legacy and when.
 
-Again, Facebook, GitHub, Flickr and other online services available to users at no cost lead the way in building systems that are hard to hack and have many controls. These examples can be followed,
+Again, Facebook, GitHub, Flickr and other online services available to users at no cost lead the way in building systems that are hard to hack and have many controls. These examples can be followed.
 
 ## 4. Convenient Access to the Information
 
@@ -69,7 +74,7 @@ Again, Facebook, GitHub, Flickr and other online services available to users at 
 
 See also previous item. Just because you have the right password to access the information does not automatically mean that you may want to access the information. The essential challenge in such a project is to make the data available quickly, easily and delightfully.
 
-All the forces of artificial general intelligence, the metaverse, gaming   and other nascent technologies may be marshaled and wrangled into re-presenting a life in a meaningful manner
+All the forces of artificial general intelligence, the metaverse, gaming and other nascent technologies may be marshaled and wrangled into re-presenting a life in a meaningful manner
 
 ## 5. Promote the Project and its Reliability
 

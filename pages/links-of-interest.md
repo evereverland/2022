@@ -21,9 +21,11 @@ _2022-07-24 ~ Just starting to bring in links that have already need noted elsew
 >
 >Slowly, companies like Facebook are developing new ways to address death. For example, you can now “memorialize” a Facebook page if you’re listed as a “legacy” contact. You can even host a virtual funeral or memorial service on a platform like GatheringUs. But the exact rules surrounding digital assets and the digital afterlife still aren’t clear.
 
+
 ### [Why You Should Believe in the Digital Afterlife]( https://www.theatlantic.com/science/archive/2016/07/what-a-digital-afterlife-would-be-like/491105/ )
 
 >Imagine scanning your Grandma’s brain in sufficient detail to build a mental duplicate. When she passes away, the duplicate is turned on and lives in a simulated video-game universe, a digital Elysium complete with bingo, TV soaps, and knitting needles to keep the simulacrum happy. You could talk to her by phone just like always. She could join Christmas dinner by Skype. E-Granny would think of herself as the same person that she always was, with the same memories and personality—the same consciousness—transferred to a well regulated nursing home and able to offer her wisdom to her offspring forever after.
+
 
 ### [Four things you might not know about your digital afterlife]( https://www.sciencefocus.com/future-technology/four-things-you-might-not-know-about-your-digital-afterlife/ )
 
