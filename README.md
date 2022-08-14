@@ -14,6 +14,10 @@ _"EverEverLand" in a resizable window. One finger to rotate. Two to zoom._
 
 ## To Do / Wish List
 
+* Better info tooltip
+* Update headers on pages
+* Updating gradient background
+* Slogans as tooltips
 
 ## Issues
 
