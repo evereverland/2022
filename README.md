@@ -11,11 +11,12 @@ _"EverEverLand" in a resizable window. One finger to rotate. Two to zoom._
 
 ## Concept
 
+* Convey the mission and vision of EverEverLand to all of you
+* Establish a schema for this and similar efforts
 
 ## To Do / Wish List
 
-* Better info tooltip
-* Update headers on pages
+* Better info tooltips
 * Updating gradient background
 * Slogans as tooltips
 
@@ -27,11 +28,10 @@ _"EverEverLand" in a resizable window. One finger to rotate. Two to zoom._
 
 ## Change Log
 
-
 ### 2022-08-13
 
 * First commit
-
+* Update headers on pages
 
 ***
 

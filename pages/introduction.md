@@ -7,7 +7,17 @@ _2022-07-24 This is a first pass - and the first day - at creating an EverEverLa
 
 Enable individuals and families - using all manner of media including digital - to knit together the threads of their lives so as to preserve connections, memories and artifacts for posterity. What is remembered, lives.
 
+### more missions
+
+Enabling you and your people, using digital and other media, to knit together the strands of your lives and so to preserve your memories and artifacts for posterity
+
 ## Vision
+
+What is remembered, lives
+
+### more visions
+
+Where have you been? What did you do? Where are you going?
 
 Help people to - as [Kurt Vonnegut]( https://en.wikipedia.org/wiki/Kurt_Vonnegut ) said - "notice when you are happy, and exclaim or murmur or think at some point, 'If this isn't nice, I don't know what is.'”
 
@@ -31,6 +41,14 @@ Good slogans excite, remind and focus.Can you add any?
 * Artistically, a thanatological intervention
 * Effective altruism forever
 * The last thing is a dingbat
+* Are we really there yet?
+* Will there be a happy ending?
+
+Not to forget
+
+* _memento mori_
+* The end is nigh
+* It's to die for
 
 ## Colophon
 
