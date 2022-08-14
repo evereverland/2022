@@ -24,7 +24,7 @@ Help people to - as [Kurt Vonnegut]( https://en.wikipedia.org/wiki/Kurt_Vonnegut
 
 ## Slogans that Sizzle
 
-Good slogans excite, remind and focus.Can you add any?
+Good slogans excite, remind and focus. Can you add any?
 
 * What is remembered, lives
 * You only live twice
@@ -47,8 +47,8 @@ Good slogans excite, remind and focus.Can you add any?
 Not to forget
 
 * _memento mori_
-* The end is nigh
-* It's to die for
+* The end is nigh...
+* It's to die for!
 
 ## Colophon
 

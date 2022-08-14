@@ -51,6 +51,10 @@ Hardcover $150
 >
 >Digital Afterlife and the Spiritual Realm explores the ways in which digital media and digital afterlife creation affects social and religious understandings of death and the afterlife.
 
+## Good Ancestor
+
+* https://www.romankrznaric.com/good-ancestor/resources
+
 ## "Legacy Projects"
 
 * https://www.google.com/search?q=%22Legacy+Projects%22
