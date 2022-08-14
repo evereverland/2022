@@ -1,6 +1,4 @@
-[![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )](https://github.com/evereverland/2022/ "Source code on GitHub" ) [EverEverLand 2022]( https://evereverland.github.io/2022/ "Home page" )
-
-# Digital AfterLife
+# [![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )]( https://github.com/evereverland/2022/blob/main/pages/erika-marthins-digital-afterlife.md "Source code on GitHub" ) Digital AfterLife
 
 By Erika Marthins
 

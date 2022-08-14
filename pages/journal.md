@@ -1,4 +1,5 @@
-# Journal
+# [![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )]( https://github.com/evereverland/2022/blob/main/pages/journal.md "Source code on GitHub" ) Journal
+
 
 <details open><summary> 2022-08-12 Standing on the Shoulders of Giants</summary>
 
@@ -46,6 +47,12 @@ More thoughts around this:
 * Be experimental
 
 </details>
+
+ <details> <summary>2022-07-24 First Pass</summary>
+
+This is a first pass - and the first day - at creating an EverEverLand website to replaces the 2019 release. More to come!
+
+ </details>
 
 ***
 

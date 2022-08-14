@@ -1,6 +1,4 @@
-[![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )](https://github.com/evereverland/2022/ "Source code on GitHub" ) [EverEverLand 2022]( https://evereverland.github.io/2022/ "Home page" )
-
-# Legacy Project
+# [![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )]( https://github.com/evereverland/2022/blob/main/pages/legacy-project.md "Source code on GitHub" ) Legacy Project
 
 The text in the following sections has been extracted from this link:
 

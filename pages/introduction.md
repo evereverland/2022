@@ -1,13 +1,11 @@
-[![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )](https://github.com/evereverland/2022/ "Source code on GitHub" ) [EverEverLand 2022]( https://evereverland.github.io/2022/ "Home page" )
-
-# Introduction
+# [![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )]( https://github.com/evereverland/2022/blob/main/pages/introduction.md "Source code on GitHub" ) Introduction
 
 _2022-07-24 This is a first pass - and the first day - at creating an EverEverLand website to replaces the 2019 release. More to come!_
 
 
 ## Mission
 
-Mission: Enable individuals and families - using all manner of media including digital - to knit together the threads of their lives so as to preserve connections, memories and artifacts for posterity. What is remembered, lives.
+Enable individuals and families - using all manner of media including digital - to knit together the threads of their lives so as to preserve connections, memories and artifacts for posterity. What is remembered, lives.
 
 ## Vision
 

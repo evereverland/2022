@@ -1,6 +1,4 @@
-[![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )](https://github.com/evereverland/2022/ "Source code on GitHub" ) [EverEverLand 2022]( https://evereverland.github.io/2022/ "Home page" )
-
-# Links of Interest
+# [![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )]( https://github.com/evereverland/2022/blob/main/pages/links-of-interest.md "Source code on GitHub" )  Links of Interest
 
 _2022-07-24 ~ Just starting to bring in links that have already need noted elsewhere. Many more to come_
 
