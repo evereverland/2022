@@ -1,31 +1,16 @@
-# [![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )]( https://github.com/evereverland/2022/blob/main/pages/introduction.md "Source code on GitHub" ) Introduction
+# [![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )]( https://github.com/evereverland/2022/blob/main/pages/colophon.md "Source code on GitHub" ) Colophon
 
-_2022-07-24 This is a first pass - and the first day - at creating an EverEverLand website to replaces the 2019 release. More to come!_
-
-
-## Mission
-
-Enable individuals and families - using all manner of media including digital - to knit together the threads of their lives so as to preserve connections, memories and artifacts for posterity. What is remembered, lives.
-
-### More missions
-
-Enabling you and your people, using digital and other media, to knit together the strands of your lives and so to preserve your memories and artifacts for posterity
-
-## Vision
-
-What is remembered, lives
-
-### More visions
-
-Where have you been? What did you do? Where are you going?
-
-Help people to - as [Kurt Vonnegut]( https://en.wikipedia.org/wiki/Kurt_Vonnegut ) said - "notice when you are happy, and exclaim or murmur or think at some point, 'If this isn't nice, I don't know what is.'”
+_We include a colophon to help you know about what older forms are being remixed into new forms._
 
 
+## What is a Colophon?
 
-## Colophon
+https://en.wikipedia.org/wiki/Colophon_(publishing)
 
-### Typeface for Titles
+In publishing, a colophon is a brief statement containing information about the publication of a book such as the place of publication, the publisher, and the date of publication. A colophon may include the device of a printer or publisher. Colophons are traditionally printed at the ends of books, but sometimes the same information appears elsewhere.
+
+
+## Typeface for Titles
 
 The typeface for all the titles in this website is [Windsor]( https://en.wikipedia.org/wiki/Windsor_(typeface) ). [Windsor]( https://fontreviewjournal.com/windsor/ ) is a serif typeface created by [Eleisha Pechey]( http://luc.devroye.org/fonts-24790.html ) (1831-1902). It is intended for use such as display and in headings rather than for body text.
 
@@ -33,12 +18,13 @@ The typeface for all the titles in this website is [Windsor]( https://en.wikiped
 
  Use of the Windsor font on this website is a "new homes for old things" or [eating your own dog food]( https://en.wikipedia.org/wiki/Eating_your_own_dog_food ) gesture.
 
-### Typeface for Body text
+
+## Typeface for Body text
 
 Verdana, just because it's a highly legible font. And, perhaps, because it may resemble the [Univers]( https://en.wikipedia.org/wiki/Univers ) typeface as used in the [_Whole Earth Catalog_]( https://fontsinuse.com/uses/1578/the-last-whole-earth-catalog ).
 
 
-### Files Saved as Text files with Markdown Formatting
+## Files Saved as Text files with Markdown Formatting
 
 Files are text files in [Markdown]( https://en.wikipedia.org/wiki/Markdown ) format.
 
