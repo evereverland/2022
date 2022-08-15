@@ -23,11 +23,17 @@ Help people to - as [Kurt Vonnegut]( https://en.wikipedia.org/wiki/Kurt_Vonnegut
 
 ***
 
-## 2022-08-14 Not "what do do?" but maybe "how do we do it?"
+## 2022-08-14 Not "what do we do?" but maybe "how do we do it?"
 
-What EverEverland eventually does - specifically and in any detail - may largely be determined by "Standing on the Shoulders of Giants" (See eponymous entry in [Journal]( https://evereverland.github.io/2022/home/2022-08-13/ghpages-cms.html#pages/journal.md ) ) . We will also have a good look at the current directions and trends regarding after life management in general. Further directions will be defined by "Eating or own dog food" and "practicing what we preach" (and other slogans) by dealing with the the material we have already gathered.
+What EverEverland eventually does - specifically and in any detail - may largely be determined by "Standing on the Shoulders of Giants" (See eponymous entry in [Journal]( https://evereverland.github.io/2022/home/2022-08-13/ghpages-cms.html#pages/journal.md ) ). We will also have a good look at the current directions and trends regarding after life management in general. Further directions will be defined by "Eating or own dog food" and "practicing what we preach" (and other slogans) by dealing with the the material we have already gathered.
 
-We want EverEverland to be comprehensive, authoritative and ethical.
+The following is a list of things to think about. First the bad news: It's technical, arcane and probably incomprehensible to many people. Now for the good news: All of the following techie bits go along well traveled, reproducible paths that have little or no cost. If you are feeling itchy, just jump to the conclusion at the bottom.
+;-)
+
+
+### Comprehensive, Authoritative and Ethical
+
+No matter what we do: We want EverEverland to be comprehensive, authoritative and ethical.
 
 Again we can stand on the shoulders of giants. For example, we can follow the published standards for genealogical research.
 
@@ -56,9 +62,12 @@ Again we can stand on the shoulders of giants. For example, we can follow the pu
 > * Do not fabricate information or publish false or unproven information as proven.
 > * Be sensitive about information found through genealogical research that may make the client or family members uncomfortable.
 
-At the same time, we may in some instance want EverEverLand to consider ensuring that the data we gather will survive "forever". This may mean allowing the material to be copied, remixed, morphed and preserved in a variety of wways.
 
-In doing so we can follow the guidelines of free and open-source software
+## Durability
+
+At the same time, we may in some instance want EverEverLand to consider ensuring that the data we gather will survive "forever". This may mean allowing the material to be copied, remixed, morphed and preserved in a variety of ways.
+
+In doing so we can follow the guidelines of free and open-source software:
 
 * https://en.wikipedia.org/wiki/Free_and_open-source_software
 
@@ -68,6 +77,16 @@ In doing so we can follow the guidelines of free and open-source software
 > * The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
 > * The freedom to redistribute copies so you can help others (freedom 2).
 > * The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+
+
+## Version Control
+
+We hope to get large numbers of loosely organized groups og people to collaborate in creating new content. Merging documents from all over the world across multiple time zones require a version control system.
+
+Version control (also known as revision control, source control, or source code management) is a class of systems responsible for managing changes to computer programs, documents, large web sites, or other collections of information.
+
+
+## Repeatability and Reproducibility = Standards
 
 Perhaps the most important thing we can do is to ensure that EverEverland efforts are repeatable and reproducible all over the world under all manner of conditions.
 
@@ -88,6 +107,13 @@ Or perhaps by defining patterns - As defined by Christopher Alexander _et al_
 
 > The book creates a new language, what the authors call a pattern language derived from timeless entities called patterns. As they write on page xxxv of the introduction, "All 253 patterns together form a language." Patterns describe a problem and then offer a solution. In doing so the authors intend to give ordinary people, not only professionals, a way to work with their neighbors to improve a town or neighborhood, design a house for themselves or work with colleagues to design an office, workshop, or public building such as a school.
 
+## Conclusion
+
+The way we will be effective will be to
+
+* Create programs, lesson plans, curriculums
+* Build software and hardware tools
+* Develope technical standards
 
 
 
