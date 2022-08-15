@@ -1,11 +1,10 @@
 # [![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )]( https://github.com/evereverland/2022/blob/main/pages/journal.md "Source code on GitHub" ) Journal
 
-<details>
+<details open>
 <summary>2022-08-14 Slogans that Sizzle</summary>
-
 A slogan is a short and striking or memorable phrase used in advertising. Slogans are a special kind of phrase or aphorism.
 
-I like slogans and aphorisms. Aphorisms are pithy observation that contains a general truth, such as, "if it ain't broke, don't fix it". An aphorisms is a short and simple way of expressing or referring to something longer or more complex.
+I like slogans and aphorisms. An aphorism is a pithy observation that contains a general truth, such as, "if it ain't broke, don't fix it". An aphorisms is a short and simple way of expressing or referring to something longer or more complex.
 
 For example, aphorisms are useful in naming, describing or representing "mental models" of great complexity.
 
@@ -19,7 +18,9 @@ At a simpler level, aphorisms may also become slogans - offering information to 
 
 * https://en.wikipedia.org/wiki/Slogan
 
-Good slogans excite, remind and focus. Can you add a phrase that is memorable, very concise and appealing to our audience?
+Good slogans excite, remind and focus.
+
+Can you add a phrase that is memorable, very concise and appealing to our audience?
 
 * What is remembered, lives
   * From the film [Nomadland]( https://www.imdb.com/title/tt9770150/characters/nm0000531 )
