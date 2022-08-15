@@ -109,7 +109,7 @@ Or perhaps by defining patterns - As defined by Christopher Alexander _et al_
 
 ## Conclusion
 
-The way we will be effective will be to
+The way we will be effective will be to:
 
 * Create programs, lesson plans, curriculums
 * Build software and hardware tools
