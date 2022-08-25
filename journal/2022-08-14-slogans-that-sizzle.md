@@ -1,4 +1,4 @@
-# [![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )]( https://github.com/evereverland/2022/blob/main/pages/journal.md "Source code on GitHub" ) 2022-08-14 Slogans that Sizzle
+# [![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )]( https://github.com/evereverland/2022/blob/main/pages/2022-08-14-slogans-that-sizzle.md "Source code on GitHub" ) 2022-08-14 Slogans that Sizzle
 A slogan is a short and striking or memorable phrase used in advertising. Slogans are a special kind of phrase or aphorism.
 
 I like slogans and aphorisms. An aphorism is a pithy observation that contains a general truth, such as, "if it ain't broke, don't fix it". An aphorisms is a short and simple way of expressing or referring to something longer or more complex.
@@ -47,4 +47,6 @@ Not to forget
 * The end is nigh...
 * It's to die for!
 
-</details>
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
