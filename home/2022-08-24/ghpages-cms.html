@@ -390,7 +390,6 @@
 
 			main.addEventListener( "mousemove", onMouseMove, false );
 
-			onHashChange();
 
 			if ( location.protocol === "https:" ) {
 
@@ -401,7 +400,8 @@
 
 			}
 
-
+			onHashChange();
+			
 		}
 
 
@@ -412,7 +412,7 @@
 			if ( !location.hash ) {
 
 				url = base + defaultFile;
-				url = "../../" + defaultFile;
+				//url = "../../" + defaultFile;
 				console.log( "url", url );
 
 			} else {
