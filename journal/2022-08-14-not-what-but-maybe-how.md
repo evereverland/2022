@@ -1,39 +1,6 @@
-# [![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )]( https://github.com/evereverland/2022/blob/main/pages/introduction.md "Source code on GitHub" ) Introduction
+# [![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )]( https://github.com/evereverland/2022/blob/main/journal/2022-08-14-not-what-but-maybe-how.md "Source code on GitHub" ) 2022-08-14 Not "what do we do?" but maybe "how do we do it?"
 
-_2022-08-14 Progress at the EverEverLand website is being made. The current state almost feels ready to share with a selected few!_
-
-
-## Mission
-
-Enable individuals and families - using all manner of media including digital - to knit together the threads of their lives so as to preserve connections, memories and artifacts for posterity.
-
-### More missions
-
-_An edited version_
-
-Enabling you and your people, using digital and other media, to knit together the strands of your lives and so to preserve your connections, memories and artifacts for posterity.
-
-
-## Vision
-
-What is remembered, lives
-
-### More visions
-
-Where have you been? What did you do? Where are you going?
-
-Help people to - as [Kurt Vonnegut]( https://en.wikipedia.org/wiki/Kurt_Vonnegut ) said:
-
-_Notice when you are happy. Exclaim or murmur or think at some point: 'If this isn't nice, I don't know what is.'_
-
-
-
-***
-
-<br>
-## 2022-08-14 Not "what do we do?" but maybe "how do we do it?"
-
-What EverEverland eventually does - specifically and in any detail - may largely be determined by "Standing on the Shoulders of Giants" (See eponymous entry in [Journal]( https://evereverland.github.io/2022/home/2022-08-13/ghpages-cms.html#pages/journal.md ) ). We will undertakle a comprehensive review of literature, websites and organizations. We will also have a good look at the current directions and trends regarding after-life management in general. Further directions will be defined by "eating or own dog food" and "practicing what we preach" (and other slogans) by dealing with the after-life content where we have already have access.
+What EverEverland eventually does - specifically and in any detail - may largely be determined by ["Standing on the Shoulders of Giants"]( file:///C:/Users/tarmo/Dropbox/Public/git-repos/evereverland-2022/home/2022-08-24/ghpages-cms.html#journal/2022-08-12-standing-on-the-shoulders-of-giants.md ). We will undertake a comprehensive review of literature, websites and organizations. We will also have a good look at the current directions and trends regarding after-life management in general. Further directions will be defined by "eating or own dog food" and "practicing what we preach" (and other slogans) by dealing with the after-life content where we have already have access.
 
 This process of of deciding "what do we do?" may take weeks, maybe even months. On the other hand, deciding "How do we do it?" appears to me like "having your cake and eating it too". Maybe, of course.
 

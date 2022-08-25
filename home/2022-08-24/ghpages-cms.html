@@ -69,7 +69,7 @@
 			/* color: darkgreen; */
 			font-family: windsor;
 			font-size: 1.1rem;
-			margin: 0;
+			margin: 0.5rem 0 0 0;
 		}
 
 		p {
@@ -334,9 +334,10 @@
 				<h2><a href="#pages/links-of-interest.md" title="Needs much work!">Links of Interest</a></h2>
 				<h2><a href="#pages/colophon.md" title="Not so secret sauce" >Colophon</a></h2>
 				<h2>journal</h2>
+				<h3><a href="#journal/2022-08-14-not-what-but-maybe-how.md" title="What!!!">Not What but Maybe How</a></h3>
 				<h3><a href="#journal/2022-08-14-slogans-that-sizzle.md" title="Hot stuff!">Slogans that Sizzle</a></h3>
 				<h3><a href="#journal/2022-08-12-standing-on-the-shoulders-of-giants.md" title="Hot stuff!">Standing on the Shoulders of Giants</a></h3>
-				<h3><a href="#journal/2022-07-2.md" title="Number 1!">First Pass</a></h3>
+				<h3><a href="#journal/2022-07-24-first-pass.md" title="Number 1!">First Pass</a></h3>
 
 			</div>
 
@@ -371,8 +372,8 @@
 // jshint loopfunc: true
 
 		let defaultFile = "pages/home.md";
-		//let base = "../../";
-		let base = "";
+		let base = location.protocol === "https:" ?  "" : "../../";
+		//let base = "";
 
 		//location.hash = "../assets/markdown-help.md"; // test
 		//location.hash = "../style/style-sample-tags.html"
@@ -394,6 +395,11 @@
 			if ( location.protocol === "https:" ) {
 
 				window.history.pushState( "", "", "../../" + location.hash );
+				base = "";
+
+			} else {
+
+				base = "../../";
 
 			}
 
