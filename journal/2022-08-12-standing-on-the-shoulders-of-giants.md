@@ -6,7 +6,7 @@ Here is one of my favorite metaphors as posed in its most famous form:
 
 See https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants
 
-> It means "Using the understanding gained by major thinkers who have gone before in order to make intellectual progress
+> It means "Using the understanding gained by major thinkers who have gone before in order to make intellectual progress"
 
 * Base my observations/thinking/recommendations on evidence, prior example, clinical research
 * Display gratitude: Name sources
@@ -22,7 +22,7 @@ If you can't find the giants, then maybe you are looking in the wrong places.
 
 ## Variations on the theme
 
-Another way of looking at this, might take on Picasso thought:
+Another way of looking at this, might take on Picasso's thought:
 
 "Poor artists copy. Great artists steal."
 
@@ -43,13 +43,7 @@ More thoughts around this:
 * Be respectful
 * Be experimental
 
-</details>
 
- <details> <summary>2022-07-24 First Pass</summary>
-
-This is a first pass - and the first day - at creating an EverEverLand website to replaces the 2019 release. More to come!
-
- </details>
 
 ***
 
