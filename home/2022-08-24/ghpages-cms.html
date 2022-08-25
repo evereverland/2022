@@ -395,11 +395,9 @@
 			if ( location.protocol === "https:" ) {
 
 				window.history.pushState( "", "", "../../" + location.hash );
-				base = "";
 
 			} else {
 
-				base = "../../";
 
 			}
 
@@ -414,6 +412,7 @@
 			if ( !location.hash ) {
 
 				url = base + defaultFile;
+				console.log( "url", url );
 
 			} else {
 
