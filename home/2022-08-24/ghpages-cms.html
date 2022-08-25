@@ -8,7 +8,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=contain">
 	<meta name="description" content="What is remembered lives">
 	<meta name="keywords" content="ShowDown,Markdown,AJAX,JavaScript,HTML,CSS,GitHub,FOSS">
-	<meta name="version" content="2022-08-24">
+	<meta name="version" content="2022-08-13">
 
 	<style>
 		/* Copyright 2022 Theo Armour. MIT License */
@@ -58,7 +58,7 @@
 		}
 
 		h2 {
-			/* color: darkgreen; */
+			color: darkgreen;
 			font-family: windsor;
 			font-size: 1.5rem;
 			font-weight: normal;
@@ -69,7 +69,7 @@
 			color: darkgreen;
 			font-family: windsor;
 			font-size: 1.1rem;
-			margin: 0;
+			/* margin: 0; */
 		}
 
 		p {
@@ -328,14 +328,13 @@
 			<div id=MNUdivContent>
 				<br>
 				<h2><a href="#pages/introduction.md" title="Good place to start">Introduction</a></h2>
-				<h2>pages</h2>
+				<p>pages</p>
 				<h2><a href="#pages/erika-marthins-digital-afterlife.md" title="Thank you Erika">Digital Afterlife</a></h2>
 				<h2><a href="#pages/legacy-project.md">Legacy Project</a></h2>
 				<h2><a href="#pages/links-of-interest.md" title="Needs much work!">Links of Interest</a></h2>
 				<h2><a href="#pages/colophon.md" title="Not so secret sauce" >Colophon</a></h2>
-				<br>
-				<h2>journal</h2>
-				<h3><a href="#journal/2022-08-14-slogans-that-sizzle.md" title="Hot stuff!">2022-08-14 Slogans that Sizzle</a></h3>
+				<p>blog</p>
+				<h2><a href="#pages/journal.md" title="Read all about it!">Journal</a></h2>
 
 			</div>
 
@@ -387,13 +386,13 @@
 
 			main.addEventListener( "mousemove", onMouseMove, false );
 
-			onHashChange();
-
 			if ( location.protocol === "https:" ) {
 
-				window.history.pushState( "", "", "../../" + location.hash );
+				//window.history.pushState( "", "", "../../" + location.hash );
 
 			}
+
+			onHashChange();
 
 		}
 
