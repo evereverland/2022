@@ -11,7 +11,7 @@ The following is a list of things to think about. First the bad news: It's techn
 If you are feeling itchy, just jump to the conclusion at the bottom. ;-)
 
 
-### Comprehensive, Authoritative and Ethical
+## Comprehensive, Authoritative and Ethical
 
 No matter what we do, we want EverEverland to be comprehensive, authoritative and ethical.
 
@@ -76,7 +76,7 @@ Repeatability and reproducibility
 * https://en.wikipedia.org/wiki/Repeatability
 * https://en.wikipedia.org/wiki/Reproducibility
 
-The normal way of achieving reporoducibility is by establishing standards
+The normal way of achieving reproducibility is by establishing standards
 
 * https://en.wikipedia.org/wiki/Technical_standard
 

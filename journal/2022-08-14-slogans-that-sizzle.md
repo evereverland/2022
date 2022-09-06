@@ -19,8 +19,14 @@ Good slogans excite, remind and focus.
 
 Can you add a phrase that is memorable, very concise and appealing to our audience?
 
+Core
+
 * What is remembered, lives
   * From the film [Nomadland]( https://www.imdb.com/title/tt9770150/characters/nm0000531 )
+
+Other possibilities
+
+* 2022-09-05 ~ Occupy Death
 * You only live twice
 * Live happily ever after
 * The end is not the end
@@ -39,7 +45,7 @@ Can you add a phrase that is memorable, very concise and appealing to our audien
 * Effective altruism forever
 * The last thing is a dingbat (❧)
 * Are we really there yet?
-* Will there be a happy ending?
+* Is there a happy ending?
 
 Not to forget
 
