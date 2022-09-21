@@ -26,10 +26,14 @@ Core
 
 Other possibilities
 
+* 2022-09-19 ~ There's an app for everything. What's the app for dying?
+* 2022-09-19 ~ DIY Cemetaries
+* 2022-09-19 ~ Disrupt the the nine celestial spheres of Heaven ~ after Dante
+* 2022-09-19 ~ Toward a new cosmology ~ the body is a machine for living ~ after Le Corbusier
 * 2022-09-05 ~ Occupy Death
 * You only live twice
 * Live happily ever after
-* The end is not the end
+* "The End" is not the end
 * Curate your legacy
 * Be a good ancestor
   * https://www.romankrznaric.com/good-ancestor
