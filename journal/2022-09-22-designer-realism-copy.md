@@ -2,11 +2,11 @@
 
 ## Preface
 
-The EverEverLand project is a "for ever and for ever" project.
+The EverEverLand mission and vision of this project indicate that it is a "forever and forever" project. What does that mean in terms of building an organization that could implement that vision? The industry is in its infancy. Current operators such as genealogists, photo-scanning services and happy-memories videographers are looking through rear-view mirrors. There are few if any thought leaders.
 
 How are you supposed to invent, design, imagine something that is meant to be useful five years or more from now?
 
-Handling a task like this is not something most people ever have to do. If you are a nurse, bartender or shop assistant, then fiv years from now the things you are doing are likely to resemble the things you do now very closely. If I ask a lawyer, accountant or plumber if they expect many changes in the way they work in the future, they will have difficulty forming an opinion. Even those of us who work in tech are blindsided. The sudden onslaught of Artificial Intelligence (AI) gizmos this year is a good example.
+Handling a task like this is not something most people ever have to do. If you are a nurse, bartender or shop assistant, then five years from now the things you are doing are likely to resemble the things you do now very closely. If I ask a lawyer, accountant or plumber if they expect many changes in the way they work in the future, they will have difficulty forming an opinion. Even those of us who work in tech are blindsided. The sudden onslaught of Artificial Intelligence (AI) gizmos this year is a good example.
 
 Nonetheless,  think the EverEverLand project is doable. Having worked in tech for decades, it becomes clear that some changes are predictable. I know this from experience. While designing releases of AutoCAD that would not ship until several years in the future, I did much of my designing on very expensive high-end machines. We did this because we knew that by the time the released project was at its mid-life that the computer that would ber available to the average user five years in the future would be more powerful than the computer I was using at design time.
 

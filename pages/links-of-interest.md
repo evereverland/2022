@@ -4,7 +4,7 @@ _2022-07-24 ~ Just starting to bring in links that have already need noted elsew
 
 ## "Digital AfterLife"
 
-### Web sites
+## Web sites
 
 * https://www.google.com/search?q=%22Digital+AfterLife%22
 
@@ -31,7 +31,7 @@ _2022-07-24 ~ Just starting to bring in links that have already need noted elsew
 
 > If a complete stranger were granted access to every scrap of recorded information about you that exists in the world, would they be able to stand up at your funeral and deliver a personal, moving eulogy that captured the essence of you? Thanks to the modern digital world, the likely answer is yes.
 
-### Books
+## Books
 
   * https://www.amazon.com/s?k=digital+afterlife
 
@@ -51,9 +51,29 @@ Hardcover $150
 >
 >Digital Afterlife and the Spiritual Realm explores the ways in which digital media and digital afterlife creation affects social and religious understandings of death and the afterlife.
 
-## Good Ancestor
 
+### Good Ancestor
+
+* https://en.wikipedia.org/wiki/Roman_Krznaric
+* https://www.romankrznaric.com/good-ancestor
 * https://www.romankrznaric.com/good-ancestor/resources
+* https://www.scribd.com/document/527330091/The-Good-Ancestor-a-Radical-Prescription-for-Long-Term-Thinking-by-Roman-Krznaric-Z-lib-org?utm_medium=cpc&utm_source=google_pmax&utm_campaign=3Q_Google_Performance-Max_US&utm_term=&utm_device=c&gclid=Cj0KCQjwsrWZBhC4ARIsAGGUJuq_six8wIGH4u-J1lBy3j8whZ3stq-1ij5_ZLbTUKIWC-p4cQQccd8aArPREALw_wcB
+
+Reviews
+* https://www.theguardian.com/books/2020/jul/26/the-good-ancestor-by-roman-krznaric-review
+* https://www.goodreads.com/book/show/51107158-the-good-ancestor
+* https://earth.org/book-reviews/book-review-the-good-ancestor-by-roman-krznaric/
+* https://alonewithbooks.com/the-good-ancestor-summary/
+
+
+### The Long Now
+
+* https://longnow.org/
+* https://longnow.org/ideas/02022/07/01/the-need-for-long-term-research/
+
+#### The Interval
+
+https://theinterval.org/
 
 ## "Legacy Projects"
 
@@ -61,6 +81,20 @@ Hardcover $150
 * https://legacyproject.org/ ?
 * https://legacyproject.human.cornell.edu/
 * http://www.ucsflegacyproject.com/about
+
+
+## Broadcasts
+
+### Stewart Brand reflects on a lifetime of staying "hungry and foolish"
+
+* https://text.npr.org/1123860510
+
+>ZOMORODI: So not to end on a morbid note, but you do think a lot about the future, Stewart. May I ask what you want to happen after your death? Do you want to be an AI version of yourself to - I don't know - live on in the metaverse? Or are you going to have your body cryogenically frozen so we can de-extinct you (laughter)?
+>BRAND: And, you know, it gives them freedom. They can pick and choose whichever version of the character. They pick the setting they want.
+>ZOMORODI: Oh, OK. So, like, we could just hang out with 1966 Stewart.
+>BRAND: Yeah, sure. Why not?
+
+>still hungry, still foolish
 
 
 ## Vendors and Contractors
