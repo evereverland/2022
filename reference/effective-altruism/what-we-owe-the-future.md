@@ -15,6 +15,7 @@ The Oxford philosopher makes the case for an unseen group whose interests we hav
 * https://www.ft.com/content/bd9e8141-b97e-4e7a-8038-8d1dbe99d54d
 > Though admirable, this book is not without flaws. He does not seriously engage with the question of the human propensity to discount the future
 
+
 ### What We Owe the Future by William MacAskill review – a thrilling prescription for humanity
 Unapologetically optimistic and bracingly realistic, a philosopher’s guide to ‘ethical living’ for dangerous times
 https://www.theguardian.com/books/2022/aug/25/what-we-owe-the-future-by-william-macaskill-review-a-thrilling-prescription-for-humanity
@@ -22,6 +23,7 @@ https://www.theguardian.com/books/2022/aug/25/what-we-owe-the-future-by-william-
 >Unapologetically optimistic and bracingly realistic, this is the most inspiring book on ‘ethical living’ I’ve ever read
 
 >Giving $3,000 to the right clean energy charity will make more difference to the climate than a lifetime of not eating meat
+
 
 ### What We Owe The Future
 
@@ -34,35 +36,20 @@ With something to ponder on every page, a bracing exhortation to do right by the
 
 
 ### ‘What We Owe the Future’ Review: A Technocrat’s Tomorrow
+
 The gospel of ‘Effective Altruism’ is shaping decisions in Silicon Valley and beyond
 * https://www.wsj.com/articles/what-we-owe-the-future-review-a-technocrats-tomorrow-11661544593
 
 >I’m not sure what sort of work his arguments will stimulate, but I can say with a high degree of confidence that “What We Owe the Future” is a preposterous book.
-
+>
 > Mr. MacAskill, who specializes in asking difficult, often unanswerable, questions about the future, shows little curiosity about the plain ones.
-
+>
 >Rarely have I read a book by a reputedly important intellectual more replete with highfalutin truisms, cockamamie analogies and complex discussions leading nowhere. Never mind what we owe the future; what does an author owe his readers? In this case, an apology.
 
 
-### What to read to understand “effective altruism”
-Four books, and a smattering of other items, that explain a growing idealistic movement
-* https://www.economist.com/the-economist-reads/2022/08/24/what-to-read-to-understand-effective-altruism
+### Book Review: Scott Alexander ~ What We Owe The Future >> the best review
 
-
-### Book Review: What We Owe The Future >> the best review
 * https://astralcodexten.substack.com/p/book-review-what-we-owe-the-future
-
-
-## My thoughts
-
-### 2022-09-23
-
-Makes mole-hills out of mountains
-* Takes big diverse topics and translates them into simplistic formulas
-* Where is the beauty, security & joy we desire
-
-Scott Alexander is the best
-* Goes through every point: smote by smote
 
 
 ## Summary

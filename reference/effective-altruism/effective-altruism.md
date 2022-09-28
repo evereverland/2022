@@ -1,6 +1,8 @@
 # effective altruism
 
-## [Centre For Effective Altruism](https://www.centreforeffectivealtruism.org/)
+## Centre For Effective Altruism
+
+* https://www.centreforeffectivealtruism.org/
 
 GitHub
 
@@ -14,9 +16,11 @@ What is effective altruism?
 ## Forum
 
 https://forum.effectivealtruism.org/
+
+
 My emotional reaction to the current funding situation
 
-## https://forum.effectivealtruism.org/posts/6xX96ZqFtH5n7mchW/my-emotional-reaction-to-the-current-funding-situation
+* https://forum.effectivealtruism.org/posts/6xX96ZqFtH5n7mchW/my-emotional-reaction-to-the-current-funding-situation
 
 
 ## Links of Interest
@@ -24,17 +28,22 @@ My emotional reaction to the current funding situation
 https://en.wikipedia.org/wiki/Fermi_paradox
 
 Widespread misperceptions of long-term attitude change
+
 * https://www.pnas.org/doi/10.1073/pnas.2107260119#abstract
 * https://news.ycombinator.com/item?id=32774592
 
-### [Shawn Rhoads](https://shawnrhoads.github.io/)
 
 
-### [The Art of Community: Seven Principles for Belonging Paperback ](https://www.amazon.com/Art-Community-Seven-Principles-Belonging/dp/1626568413/ref%3Dasc_df_1626568413)
+## People
+
+### Shawn Rhoads
+
+ https://shawnrhoads.github.io/
+
+
+### Charles Vogl
+
+* https://www.amazon.com/Art-Community-Seven-Principles-Belonging/dp/1626568413/ref%3Dasc_df_1626568413
+
 >Drawing on 3,000 years of history and his personal experience, Charles Vogl lays out seven time-tested principles for growing enduring, effective and connected communities. He provides hands-on tools for creatively adapting these principles to any group—formal or informal, mission driven or social, physical or virtual. This book is a guide for leaders seeking to build a vibrant, living culture that will enrich lives.
 
-## Economist
-
-What to read to understand “effective altruism”
-Four books, and a smattering of other items, that explain a growing idealistic movement
-* https://www.economist.com/the-economist-reads/2022/08/24/what-to-read-to-understand-effective-altruism
