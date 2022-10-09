@@ -60,7 +60,6 @@ When do we help?
 Young or old, dead or alive, willing or unwilling, there are ways to help and things that can be done. The lenses of past, present and future may help "see through a glass, darkly.
 
 
-
 Where can we help?
 There's an app for everything. Why not one for your digital afterlife. Available always and where with an app in your pocket.
 
