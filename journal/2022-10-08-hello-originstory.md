@@ -2,7 +2,7 @@
 
 _2022-10-08 ~ first draft_
 
-EverEverLand has a mission, but as yet there is no map of how to get there. Given our circumstances, most likely we will let others be the prime contractors. So then who would we want to help? Here is a commentary on an obvious candidate
+EverEverLand has a mission, but as yet there is no map of how to get there. Given our circumstances, most likely we will let others be the prime contractors. So then who do we want to help? Here is a commentary on an obvious candidate
 
 I met the founder of OriginStory a few days ago. The website is a work-in-progress, nonetheless I find the site attractive, clear and compelling. I have observed a number of characteristics that speak for themselves. Rather than describe them, I have copy-pasted text directly from the site. Note the following conventions:
 
@@ -116,6 +116,7 @@ How can EverEverLand Help? Perhaps by assisting with some of these aspects:
 * Help find customers
   * Liaising with retirement communities
 * Help with marketing
+* Help create standards and branding
 * Provide support, guidance and encouragement
 
 
