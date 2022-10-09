@@ -2,14 +2,13 @@
 
 _2022-10-08 ~ first draft_
 
-EverEverLand has a mission, but there is as yet no map of how to get there. Given our circumstances, most likely we will let others be the prime contractors. So then who would we want to help? Here is a commentary on an obvious candidate
+EverEverLand has a mission, but as yet there is no map of how to get there. Given our circumstances, most likely we will let others be the prime contractors. So then who would we want to help? Here is a commentary on an obvious candidate
 
-I met the founder of OriginStory a few days ago. The website is a work-in-progress, nonetheless I find the site attractive, clear and compelling. I have observed a number of characteristics that speak for themselves. Rather than describe them, I have copy-pasted text directly from the site.
-
+I met the founder of OriginStory a few days ago. The website is a work-in-progress, nonetheless I find the site attractive, clear and compelling. I have observed a number of characteristics that speak for themselves. Rather than describe them, I have copy-pasted text directly from the site. Note the following conventions:
 
 > Text with gray background has been copy pasted from OriginStory website
 
-* Text preceded by bullets is ours
+* Simple text preceded by bullets is ours
 
 
 ## A Vision is Apparent
@@ -29,6 +28,7 @@ _A mission describes what you want to do now_
 >* Your family history—professionally preserved for generations
 
 ## The Players are Introduced
+
 _Who are we talking about?_
 
 >* Access to your personal family historian
@@ -59,15 +59,15 @@ _What does the customer get?_
 
 _Show me the demo!_
 
-* Multiple Examples are provided
+* Multiple examples are provided
 * Multiple languages accepted
-* Self-evident user interface
 
 
 ## Graphic Design Well-Executed
 
 _Clarity and beauty help_
 
+* Self-evident user interface
 * The text is large (perhaps lacking contrast though)
 * Colors, graphic design: good
 * The photos are large
@@ -78,8 +78,8 @@ _Clarity and beauty help_
 _Yup, there are human beings here!_
 
 * Privacy considerations are noted
-* Multiple way to contact provided
-* DIY is OK
+* Multiple ways to contact provided
+* DIY is OK and help is available
 * Support is apparent
 
 ## Call to action
@@ -88,6 +88,7 @@ _Encourage the immediate sale!_
 
 * Contact page is readily available
 * The prices are stated clearly
+
 
 ## How Can EverEverLand Help?
 
@@ -116,7 +117,6 @@ How can EverEverLand Help? Perhaps by assisting with some of these aspects:
   * Liaising with retirement communities
 * Help with marketing
 * Provide support, guidance and encouragement
-
 
 
 <!--
