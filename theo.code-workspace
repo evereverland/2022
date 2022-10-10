@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../theo-armour-repos/pages"
+		},
+		{
+			"path": "../theo-armour-qdata"
 		}
 	],
 	"settings": {}
