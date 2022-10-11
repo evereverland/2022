@@ -1,13 +1,16 @@
 {
 	"folders": [
 		{
+			"name": "evereverland-2022",
 			"path": "."
 		},
 		{
-			"path": "../theo-armour-repos/pages"
+			"name": "theo-armour-qdata",
+			"path": "../theo-armour-qdata"
 		},
 		{
-			"path": "../theo-armour-qdata"
+			"name": "pages",
+			"path": "../theo-armour-repos/pages"
 		}
 	],
 	"settings": {}
