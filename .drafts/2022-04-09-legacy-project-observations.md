@@ -51,8 +51,6 @@ Every has an inner voice. Some inner voices are nearly mute; others shout non-st
 There will be a point in time when sufficient remarkable lives are open for gaming. After that there will be no looking back to the time when there was no looking back.
 
 
-
-
 ***
 
 Below is the start of another approach. More Later.

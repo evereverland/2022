@@ -16,7 +16,7 @@
 
 ### Who am I and Who are you?
 
-This post is about the people of EverEverLand. Itideates - https://www.merriam-webster.com/dictionary/ideate - on the topic of how they may be organized. Fingers crossed:
+This post is about the people of EverEverLand. It ideates - https://www.merriam-webster.com/dictionary/ideate - on the topic of how they may be organized. Fingers crossed:
 
  the old terms - vendor & customer, practitioner & patient, consultant & client - may be improved upon. In an ideal world the roles of each of the pairs listed above might reverse from time to time.
 

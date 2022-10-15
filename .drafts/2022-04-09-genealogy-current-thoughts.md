@@ -26,6 +26,3 @@ How close is George Armour to Jeanne Armour - wife of the Scottish poet Robert B
 
 Is James C Marshall Shirk related to US Chief Justice John Marshall? I hace a painting supposedly of his daughter. A known relationship will be useful in donating the portrait to Marshall's library.
 
-
-
-

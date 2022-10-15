@@ -5,7 +5,7 @@ https://en.wikipedia.org/wiki/Elizabeth_Gurley_Flynn
 
 The local bookstore selling to a general audience is dead. Rents are getting higher. The number of books that can be displayed is reduced. At the same time, the range of interest of even the smallest population increases.
 
-At best the local store becomes order takers.
+At best the local store becomes order-takers.
 
 What is the alternative?
 

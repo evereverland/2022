@@ -13,7 +13,7 @@ https://www.un.org/en/about-us/universal-declaration-of-human-rights
 >Article 25
 >Everyone has the right to a standard of living adequate for the health and well-being of himself and of his family, including food, clothing, housing and medical care and necessary social services, and the right to security in the event of unemployment, sickness, disability, widowhood, old age or other lack of livelihood in circumstances beyond his control.
 
-## What are the minimum and maximum permanent records?
+## What are the minimum and maximum permanent records
 
 ### Minimum
 
@@ -35,8 +35,7 @@ A maximum record might consist of
 * Cause no harm to others
 
 
-
-## What are some of the rules for permanent records?
+## What are some of the rules for permanent records
 
 In a dream utopia, here are some of the guidelines:
 
@@ -48,7 +47,7 @@ In a dream utopia, here are some of the guidelines:
 * All processing is available at no charge to the public
 * All tools are free and open source
 * Data is managed by revision control systems such as [Git]( https://en.wikipedia.org/wiki/Git )
-	* This has many implications that will be discussed
+  * This has many implications that will be discussed
 * All data is updated via the services of trusted maintainers
 
 Not to forget:
@@ -61,9 +60,7 @@ Not to forget:
 >The relationship has also been expressed in other terms, such as "The model is not the data" or Alan Watts' "The menu is not the meal."
 
 
-
-
-## What are some permanent record projects in operation today?
+## What are some permanent record projects in operation today
 
 Here are links to some current projects that relate to recording and keeping data for very long periods of time:
 
@@ -89,7 +86,7 @@ a timespan we call the long now.
 Project Silica is developing the first-ever storage technology designed and built from the media up, for the cloud. We are leveraging recent discoveries in ultrafast laser optics to store data in quartz glass by using femtosecond lasers, and building a completely new storage system designed from scratch around this technology. This opens up an incredibly exciting opportunity to challenge and completely re-think traditional storage system design, and to co-design the future hardware and software infrastructure for the cloud.
 
 
-## What are some examples of permanent record thinking?
+## What are some examples of permanent record thinking
 
 Representations of self have occurred ever since the beginning. Perhaps it starts with making babies. When the first humanoid first recognized themselves looking while at a reflection in a puddle, the desire to keep a permanent record was created [thinking out loud].
 

@@ -2,7 +2,6 @@
 
 just-in-time history / historiography / meta-history
 
-
 JIT history is the bringing together as many references to the widest range of sources as possible in response to the question currently at hand. The resources may have little or everything to do with the prior or the next question; they are merely singularly focussed on the discussion of the moment; They do not hide but reveal the bias of the investigation.
 
 ## Topics
