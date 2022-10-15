@@ -11,9 +11,6 @@
 		{
 			"name": "pages",
 			"path": "../theo-armour-repos/pages"
-		},
-		{
-			"path": "../spider-2022"
 		}
 	],
 	"settings": {}
