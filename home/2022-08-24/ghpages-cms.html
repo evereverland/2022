@@ -359,6 +359,7 @@
 					</center>
 
 				</footer>
+
 			</div>
 
 		</nav>
@@ -459,7 +460,13 @@
 			const green = e.y / height * 100;
 			const blue = ( e.x / width ) - ( e.y / height ) * 100;
 
-			document.body.style.backgroundColor = `rgb(${ red }%, ${ green }%, ${ blue }%)`;
+			document.body.style.background = `rgb(${ red }%, ${ green }%, ${ blue }%)`;
+
+			//document.body.style.backgroundImage = `radial-gradient(at ${ red * 4 }% ${ green * 2 }%, red ${ red * 2 }%, green ${ green }%, blue ${ blue }%)`;
+
+			//document.body.style.backgroundImage = `repeating-radial-gradient( red ${ red }%, green ${ green }%, blue ${ blue }%)`;
+
+
 			//console.log( "x&y", e.x, e.y );
 
 		}
