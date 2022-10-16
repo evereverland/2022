@@ -1,12 +1,16 @@
 {
 	"folders": [
 		{
-			"name": "evereverland-2022",
-			"path": "."
+			"name": "heritage-happenings.github.io",
+			"path": "../heritage-happenings.github.io"
 		},
 		{
 			"name": "theo-armour-qdata",
 			"path": "../theo-armour-qdata"
+		},
+		{
+			"name": "evereverland-2022",
+			"path": "."
 		},
 		{
 			"name": "pages",
