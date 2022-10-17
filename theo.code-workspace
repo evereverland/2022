@@ -15,6 +15,9 @@
 		{
 			"name": "pages",
 			"path": "../theo-armour-repos/pages"
+		},
+		{
+			"path": "../pushme-pullyou-tootoo-2022"
 		}
 	],
 	"settings": {}
