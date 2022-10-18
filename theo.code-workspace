@@ -13,11 +13,12 @@
 			"path": "."
 		},
 		{
-			"name": "pages",
-			"path": "../theo-armour-repos/pages"
+			"name": "pushme-pullyou-tootoo-2022",
+			"path": "../pushme-pullyou-tootoo-2022"
 		},
 		{
-			"path": "../pushme-pullyou-tootoo-2022"
+			"name": "pages",
+			"path": "../theo-armour-repos/pages"
 		}
 	],
 	"settings": {}
