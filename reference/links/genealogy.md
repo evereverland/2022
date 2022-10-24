@@ -9,9 +9,9 @@
 ### 2021 ~ Experiencing Virtual Reality in Genealogy: The Future of Exploring Ancestry
 
 * https://vpa.syr.edu/academics/design/programs/industrial-interaction-design-bid/2021-iid-thesis-showcase/tim-li-thesis-work/
-\
 
-### 2009 ~ The future of Denealogy ~ 2009
+
+### 2009 ~ The future of Genealogy ~ 2009
 
 https://stevemorse.org/futuregenealogy2009.pdf
 
