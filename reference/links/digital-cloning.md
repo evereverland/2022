@@ -17,7 +17,9 @@
 
 * https://petapixel.com/2021/02/16/ai-can-now-turn-you-into-a-fully-digital-realistic-talking-clone/
 
-Jobs
+## Steve Jobs
+
+Altered histories
 
 https://www.nytimes.com/2015/07/19/opinion/sunday/my-digital-cemetery.html
 

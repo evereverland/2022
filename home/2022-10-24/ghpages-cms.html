@@ -8,7 +8,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=contain">
 	<meta name="description" content="What is remembered lives">
 	<meta name="keywords" content="ShowDown,Markdown,AJAX,JavaScript,HTML,CSS,GitHub,FOSS">
-	<meta name="version" content="2022-08-24">
+	<meta name="version" content="2022-10-24">
 
 	<style>
 		/* Copyright 2022 Theo Armour. MIT License */
@@ -16,7 +16,7 @@
 
 		:root {
 			font: 100% Verdana, Geneva, Tahoma, sans-serif;
-			--mnu-width: 16rem;
+			--mnu-width: 18rem;
 		}
 
 		@font-face {
@@ -50,6 +50,10 @@
 			text-decoration: underline;
 		}
 
+		details {
+			margin: 0.5rem 0;
+		}
+
 		h1 {
 			color: darkgreen;
 			font-family: windsor;
@@ -57,7 +61,8 @@
 			margin: 0;
 		}
 
-		h2 {
+		h2,
+		summary {
 			/* color: darkgreen; */
 			font-family: windsor;
 			font-size: 1.5rem;
@@ -334,20 +339,26 @@
 				<h2><a href="#pages/erika-marthins-digital-afterlife.md" title="Thank you Erika">Digital Afterlife</a>
 				</h2>
 				<h2><a href="#pages/legacy-project.md">Legacy Project</a></h2>
-				<h2><a href="#pages/links-of-interest.md" title="Needs much work!">Links of Interest</a></h2>
+
+				<details open>
+					<summary>links of interest</summary>
+					<h3><a href="#pages/digital-afterlife.md" title="Needs much work!">Digital Afterlife</a></h3>
+					<h3><a href="#pages/digital-cloninge.md" title="Needs much work!">Digital Cloning</a></h3>
+					<h3><a href="#pages/genealogy.md" title="Needs much work!">Genealogy</a></h3>
+				</details>
+				<details open>
+					<summary>journal</summary>
+					<h3><a href="#journal/2022-10-08-hello-originstory.md" title="What!!!">Hello, OriginStory!</a></h3>
+					<h3><a href="#journal/2022-08-14-not-what-but-maybe-how.md" title="What!!!">Not What but Maybe
+							How</a></h3>
+					<h3><a href="#journal/2022-08-14-slogans-that-sizzle.md" title="Hot stuff!">Slogans that Sizzle</a>
+					</h3>
+					<h3><a href="#journal/2022-08-12-standing-on-the-shoulders-of-giants.md" title="Hot stuff!">Standing
+							on the Shoulders of Giants</a></h3>
+					<h3><a href="#journal/2022-07-24-first-pass.md" title="Number 1!">First Pass</a></h3>
+				</details>
+
 				<h2><a href="#pages/colophon.md" title="Not so secret sauce">Colophon</a></h2>
-
-
-				<h2>journal</h2>
-				<h3><a href="#journal/2022-10-08-hello-originstory.md" title="What!!!">Hello, OriginStory!</a></h3>
-				<h3><a href="#journal/2022-08-14-not-what-but-maybe-how.md" title="What!!!">Not What but Maybe How</a>
-				</h3>
-				<h3><a href="#journal/2022-08-14-slogans-that-sizzle.md" title="Hot stuff!">Slogans that Sizzle</a></h3>
-				<h3><a href="#journal/2022-08-12-standing-on-the-shoulders-of-giants.md" title="Hot stuff!">Standing on
-						the Shoulders of Giants</a></h3>
-				<h3><a href="#journal/2022-07-24-first-pass.md" title="Number 1!">First Pass</a></h3>
-
-
 			</div>
 
 			<div id=MNUdivSample></div>
@@ -432,7 +443,7 @@
 
 			}
 
-			document.title = url.split( "/" ).pop();
+			document.title = "EverEverLand - " + url.split( "/" ).pop();
 			const options = { openLinksInNewWindow: false, excludeTrailingPunctuationFromURLs: true, ghMention: true, simplifiedAutoLink: true, simpleLineBreaks: true, emoji: true };
 
 			// if ( document.title === "README.md" ) {
