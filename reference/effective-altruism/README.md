@@ -20,6 +20,7 @@ Four books, and a smattering of other items, that explain a growing idealistic m
 
 * https://astralcodexten.substack.com/p/book-review-what-we-owe-the-future
 
+
 ## Medium
 
 * https://medium.com/search?q=effective+altruism
@@ -28,6 +29,23 @@ Four books, and a smattering of other items, that explain a growing idealistic m
 
 
 ## My thoughts
+
+### 2022-10-24
+
+Effective altruism
+
+Consider the ant and grasshopper - Aesop's fables
+
+The grasshopper has fun but starves in the end
+The any lives through the winter but has no fun.
+
+In the real world we need both.
+
+May the effective altruist participate in the occasional hedonism
+
+All work and no play makes Jack a dull boy?
+
+https://en.wikipedia.org/wiki/All_work_and_no_play_makes_Jack_a_dull_boy#:~:text=%22All%20work%20and%20no%20play,becomes%20both%20bored%20and%20boring.
 
 ### 2022-09-26
 
@@ -43,8 +61,6 @@ Therefore
 
 * A certain amount of EA is required and necessary
 * EA by itself is not sufficient to carry the day
-
-
 
 ### 2022-09-23
 

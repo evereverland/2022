@@ -1,6 +1,6 @@
 # [![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )]( https://github.com/evereverland/2022/blob/main/pages/introduction.md "Source code on GitHub" ) Introduction
 
-_2022-08-14 Progress at the EverEverLand website is being made. The current state almost feels ready to share with a selected few!_
+_2022-10-24 Progress at the EverEverLand website is being made - gently. The current state almost feels ready to share with a selected few!_
 
 
 ## Current Mission
@@ -28,13 +28,19 @@ Help people to - as [Kurt Vonnegut]( https://en.wikipedia.org/wiki/Kurt_Vonnegut
 
 ***
 
-## 2022-08-24 Next Steps
+## 2022-10-24 ~ Theo: Next Steps
 
 This web site is now kind of working. Fingers crossed.
 
 Some of the pages have some ideas or links of interest.
 
-[Theo: I look forward to adding more content and comments to all the existing pages!]
+I have started documenting here and there some of the ways _**how**_ we can do things by:
+
+* Setting standards for others to hollow
+* Following the trajectories of successful open source projects such as Linux, Node and Python
+* Making the use of all the good knowledge available on the Internet
+
+The matter at hand is to establish what we want to do and why. Needles to say this is tricky - especially if you are like me and what to do everything just because it's there. ;-)
 
 So what are we meant to do next?
 
@@ -46,7 +52,7 @@ Two good places to start reading:
 
 [What We Owe the Future]( https://en.wikipedia.org/wiki/What_We_Owe_the_Future )
 
-I will be reporting back on both works - as well as adding to the [Links of Interest]( #pages/links-of-interest.md ).
+I will be reporting back on both works - as well as adding to the "links of Interest" pages.
 
 In the meantime, do let me know what you think might be useful topics to discuss!
 

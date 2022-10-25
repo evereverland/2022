@@ -1,5 +1,7 @@
 # Digital Clones
 
+* https://www.youtube.com/watch?v=MU38axHhzxM
+
 * https://en.wikipedia.org/wiki/Digital_cloning
 
 * https://hourone.ai/
@@ -16,6 +18,10 @@
 * https://deepbrainai.io/?www.deepbrainai.io&gclid=CjwKCAjwzNOaBhAcEiwAD7Tb6OU7rEWP_FveSxjoTgfteV3uO89wb9ZZQg_ot_-Ccj0W0nh-b6DOmBoCqtQQAvD_BwE
 
 * https://petapixel.com/2021/02/16/ai-can-now-turn-you-into-a-fully-digital-realistic-talking-clone/
+
+* https://www.reddit.com/r/nosleep/comments/uw8yuh/we_created_vr_to_reunite_people_with_their_dead/
+
+* https://www.mcm.uni-wuerzburg.de/fileadmin/06110300/user_upload/PDF_Dateien/JP/2021_stein_ppm.pdf
 
 ## Steve Jobs
 
