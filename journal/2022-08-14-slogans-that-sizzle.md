@@ -1,4 +1,5 @@
 # [![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )]( https://github.com/evereverland/2022/blob/main/pages/2022-08-14-slogans-that-sizzle.md "Source code on GitHub" ) 2022-08-14 Slogans that Sizzle
+
 A slogan is a short and striking or memorable phrase used in advertising. Slogans are a special kind of phrase or aphorism.
 
 I like slogans and aphorisms. An aphorism is a pithy observation that contains a general truth, such as, "if it ain't broke, don't fix it". An aphorisms is a short and simple way of expressing or referring to something longer or more complex.
@@ -26,6 +27,7 @@ Core
 
 Other possibilities
 
+* 2022-11-02 ~ Ramses the great ~ "To speak the name of the dead is to make him live again."
 * 2022-09-19 ~ There's an app for everything. What's the app for dying?
 * 2022-09-19 ~ DIY Cemetaries
 * 2022-09-19 ~ Disrupt the the nine celestial spheres of Heaven ~ after Dante
