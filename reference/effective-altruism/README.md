@@ -1,5 +1,10 @@
 # Effective Altruism Read Me
 
+tags #philosophy @social-movement
+
+* https://en.wikipedia.org/wiki/Effective_altruism
+
+
 ## Economist
 
 What to read to understand “effective altruism”
