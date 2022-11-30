@@ -18,7 +18,7 @@ What is effective altruism?
 https://forum.effectivealtruism.org/
 
 
-My emotional reaction to the current funding situation
+### My emotional reaction to the current funding situation
 
 * https://forum.effectivealtruism.org/posts/6xX96ZqFtH5n7mchW/my-emotional-reaction-to-the-current-funding-situation
 
@@ -27,14 +27,17 @@ My emotional reaction to the current funding situation
 
 https://en.wikipedia.org/wiki/Fermi_paradox
 
-Widespread misperceptions of long-term attitude change
+Widespread mis-perceptions of long-term attitude change
 
 * https://www.pnas.org/doi/10.1073/pnas.2107260119#abstract
 * https://news.ycombinator.com/item?id=32774592
 
-
-
 ## People
+
+### Peter Singer: Famine, Affluence and Morality
+
+* https://personal.lse.ac.uk/robert49/teaching/mm/articles/Singer_1972Famine.pdf
+
 
 ### Shawn Rhoads
 
