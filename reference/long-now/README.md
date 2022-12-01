@@ -66,7 +66,6 @@ https://www.prospectivepsych.org/
 https://www.prospectivepsych.org/sites/default/files/pictures/Seligman-et-al_Navigating-into-the-future-2013.pdf
 
 
-
 ## Good Ancestor
 
 * https://en.wikipedia.org/wiki/Roman_Krznaric
