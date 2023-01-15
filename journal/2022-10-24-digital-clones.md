@@ -1,3 +1,4 @@
+# 2022-10-24 Digital Clones
 
 A central premise of EverEverLand is that in some imaginary future there will be virtual worlds where you will interact with historical personages immersed in a 3D locale that closely simulates the time, place and mentality of the personage you are chatting with. For example, you might be talking to a young man in a metal shop in what is now Brazzaville, Congo in 20 BCE or to an elderly woman working on a coffin on Hainan Island in China in 1492. While chatting you might be hearing music or street sounds in the background, and noticing the food on the table or art on the walls. Leaving the premises, you are now in a Google Street View that allows you to go to any latitude or longitude. There's a dial that allows you to set the time frame.
 
