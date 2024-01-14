@@ -1,4 +1,4 @@
-# [![](https://evereverland.github.io/assets/github-octicon.svg )](https://github.com/evereverland/2022/ "Source code on GitHub" ) [EverEverLand]( https://evereverland.github.io/ "Home page" )
+# [![](https://evereverland.github.io/assets/github-octicon.svg )](https://github.com/evereverland/ "Source code on GitHub" ) [EverEverLand]( https://evereverland.github.io/ "Home page" )
 
 
 <!--@@@
@@ -16,6 +16,7 @@ _"EverEverLand" in a resizable window. One finger to rotate. Two to zoom._
 
 ## To Do / Wish List
 
+* 2024-01-14~ works on a mobile phone
 * Better info tooltips
 * Updating gradient background
 * Slogans as tooltips
