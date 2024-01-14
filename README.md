@@ -1,12 +1,12 @@
-# [![](https://evereverland.github.io/2022/assets/github-octicon.svg )](https://github.com/evereverland/2022/ "Source code on GitHub" ) [EverEverLand 2022]( https://evereverland.github.io/2022/ "Home page" )
+# [![](https://evereverland.github.io/assets/github-octicon.svg )](https://github.com/evereverland/2022/ "Source code on GitHub" ) [EverEverLand 2022]( https://evereverland.github.io/ "Home page" )
 
 
 <!--@@@
-<div class=iframe-resize ><iframe src=https://evereverland.github.io/2022/ height=100% width=100% ></iframe></div>
+<div class=iframe-resize ><iframe src=https://evereverland.github.io/ height=100% width=100% ></iframe></div>
 _"EverEverLand" in a resizable window. One finger to rotate. Two to zoom._
 @@@-->
 
-## Full Screen: [EverEverLand]( https://evereverland.github.io/2022/ )
+## Full Screen: [EverEverLand]( https://evereverland.github.io/ )
 
 
 ## Concept
@@ -28,6 +28,9 @@ _"EverEverLand" in a resizable window. One finger to rotate. Two to zoom._
 
 ## Change Log
 
+### 2024-01-14
+
+* Fix read me links
 ### 2022-08-13
 
 * First commit
